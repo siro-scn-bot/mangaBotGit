@@ -1,0 +1,24 @@
+selectors: &selectors
+  item_selector: //episode[status[contains(text(), "public")]]
+  item_description_selector: title
+  item_image_selector: list_image_double_url
+  item_link_selector: page_url
+  item_time_selector: member_publish_start
+  item_title_selector: volume
+
+pages:
+  - id: ai
+    description: "1話完結ヒューマノイド・オムニバス"
+    title: "AIの遺電子"
+    url: https://mangacross.jp/api/comics/ai.json?type=public
+    <<: *selectors
+  - id: akabane
+    description: "美人派遣OLの正体は忍者!?"
+    title: "ハケンの忍者アカバネ"
+    url: https://mangacross.jp/api/comics/akabane.json?type=public
+    <<: *selectors
+  - id: aomori
+    description: "他には無い青森グルメまんが！"
+    title: "津軽先輩の青森めじゃ飯！"
+    url: https://mangacross.jp/api/comics/aomori.json?type=public
+    <<: *selectors
