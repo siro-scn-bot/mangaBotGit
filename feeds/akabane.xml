@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/akabane.json?type=public</link>
     <atom:link href="https://siro-scn-bot.github.io/mangaBotGit/feeds/akabane.xml" rel="self"/>
     <description><![CDATA[美人派遣OLの正体は忍者!?]]></description>
-    <lastBuildDate>Sun, 03 Apr 2022 15:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2022 15:21:24 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第33話]]></title>
+      <link>https://mangacross.jp/comics/akabane/35</link>
+      
+        <pubDate>Mon, 04 Apr 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[幸せ絶頂!? 青梅流忍術の真実！]]></description>
+      <content:encoded><![CDATA[幸せ絶頂!? 青梅流忍術の真実！]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/35</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/hEcCA5_mX6GTcKZwZlnPcMfa0V5Bzl7lt4PGC3C4e0Y/episode_thumbnail/thumb_double.png?1648718017" length="0" type="image/png"/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第32話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/akabane/33</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/G08BPGMJJEvXr7gd8OB6n2B6TAJJjF6o3Kk8xXeN_fY/episode_thumbnail/thumb_double.png?1643869731" length="0" type="image/png"/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第30話]]></title>
-      <link>https://mangacross.jp/comics/akabane/32</link>
-      
-        <pubDate>Mon, 10 Jan 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[ドッキリ！ ニャンニャン写真流出…!?]]></description>
-      <content:encoded><![CDATA[ドッキリ！ ニャンニャン写真流出…!?]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/32</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/8Un1G6abWCrghRfWkzHDdVz-isC5mBKecgYLbouZa_4/episode_thumbnail/thumb_double.png?1641526325" length="0" type="image/png"/>
       
     </item>
     
