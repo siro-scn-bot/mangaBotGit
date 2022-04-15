@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Weneedfeed</title>
+  </head>
+  <body>
+    <outline text="Weneedfeed" title="Weneedfeed">
+      
+        <outline type="rss" text="AIの遺電子" title="AIの遺電子" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/ai.xml" htmlUrl="https://mangacross.jp/api/comics/ai.json?type=public"/>
+      
+        <outline type="rss" text="ハケンの忍者アカバネ" title="ハケンの忍者アカバネ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/akabane.xml" htmlUrl="https://mangacross.jp/api/comics/akabane.json?type=public"/>
+      
+        <outline type="rss" text="津軽先輩の青森めじゃ飯！" title="津軽先輩の青森めじゃ飯！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/aomori.xml" htmlUrl="https://mangacross.jp/api/comics/aomori.json?type=public"/>
+      
+    </outline>
+  </body>
+</opml>
