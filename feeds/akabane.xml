@@ -7,7 +7,21 @@
     <link>https://mangacross.jp/api/comics/akabane.json?type=public</link>
     <atom:link href="https://siro-scn-bot.github.io/mangaBotGit/feeds/akabane.xml" rel="self"/>
     <description><![CDATA[美人派遣OLの正体は忍者!?]]></description>
-    <lastBuildDate>Sun, 01 May 2022 15:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 15:21:36 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[第34話]]></title>
+      <link>https://mangacross.jp/comics/akabane/36</link>
+      
+        <pubDate>Mon, 02 May 2022 10:00:00 +0900</pubDate>
+      
+      <description><![CDATA[イメチェン!? メガネよさらば!?]]></description>
+      <content:encoded><![CDATA[イメチェン!? メガネよさらば!?]]></content:encoded>
+      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/36</guid>
+      
+        <enclosure url="https://mangacross.jp/images/episode/aAUGqQAXKFRtYUuK9b9NzmqJePiDFyn2dA4Ej55D12A/episode_thumbnail/thumb_double.png?1651040510" length="0" type=""/>
+      
+    </item>
     
     <item>
       <title><![CDATA[第33話]]></title>
@@ -34,20 +48,6 @@
       <guid isPermaLink="true">https://mangacross.jp/comics/akabane/34</guid>
       
         <enclosure url="https://mangacross.jp/images/episode/jpsSfem0TnJpCVFWG4RO59VQcykl1lHzrQJgHFlolvA/episode_thumbnail/thumb_double.png?1646297790" length="0" type=""/>
-      
-    </item>
-    
-    <item>
-      <title><![CDATA[第31話]]></title>
-      <link>https://mangacross.jp/comics/akabane/33</link>
-      
-        <pubDate>Mon, 07 Feb 2022 10:00:00 +0900</pubDate>
-      
-      <description><![CDATA[探せ！ いちばん喜ぶプレゼント！]]></description>
-      <content:encoded><![CDATA[探せ！ いちばん喜ぶプレゼント！]]></content:encoded>
-      <guid isPermaLink="true">https://mangacross.jp/comics/akabane/33</guid>
-      
-        <enclosure url="https://mangacross.jp/images/episode/G08BPGMJJEvXr7gd8OB6n2B6TAJJjF6o3Kk8xXeN_fY/episode_thumbnail/thumb_double.png?1643869731" length="0" type=""/>
       
     </item>
     
