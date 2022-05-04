@@ -156,11 +156,6 @@ pages:
   title: アフタースクールメイト
   url: https://shonenjumpplus.com/episode/3269754496618897559
   '<<': *id001
-- id: '10833497643049550207'
-  description: エブリデイ☆　エブリニャン☆
-  title: 猫田びより
-  url: https://shonenjumpplus.com/episode/10833497643049550207
-  '<<': *id001
 - id: '10833519556325021944'
   description: 青春！学園コメディの決定版!!
   title: SKET DANCE
@@ -241,11 +236,6 @@ pages:
   title: AURORA NODE
   url: https://shonenjumpplus.com/episode/3269754496408856071
   '<<': *id001
-- id: '10833497643049550207'
-  description: エブリデイ☆　エブリニャン☆
-  title: 猫田びより
-  url: https://shonenjumpplus.com/episode/10833497643049550207
-  '<<': *id001
 - id: '3269754496649675685'
   description: 恋を知らない少年神父の聖戦記！
   title: エクソシストを堕とせない
@@ -321,11 +311,6 @@ pages:
   title: ヘタリア World☆Stars
   url: https://shonenjumpplus.com/episode/10833497643049549836
   '<<': *id001
-- id: '10833497643049550207'
-  description: エブリデイ☆　エブリニャン☆
-  title: 猫田びより
-  url: https://shonenjumpplus.com/episode/10833497643049550207
-  '<<': *id001
 - id: '10833519556325021849'
   description: 青春不条理ギャグマンガ！
   title: ピューと吹く！ジャガー
@@ -356,11 +341,6 @@ pages:
   title: 美術部の上村が死んだ
   url: https://shonenjumpplus.com/episode/3269754496854369150
   '<<': *id001
-- id: '3269754496884483900'
-  description: 新体験グラビティ・アクション！
-  title: バブル
-  url: https://shonenjumpplus.com/episode/3269754496884483900
-  '<<': *id001
 - id: '3269754496398375123'
   description: お隣のサキュバスは勤労で禁欲で
   title: マジメサキュバス柊さん
@@ -380,11 +360,6 @@ pages:
   description: 口寄と退魔を巡る現代奇譚姉妹物語
   title: 彼岸此岸のものどもよ
   url: https://shonenjumpplus.com/episode/3269754496649850232
-  '<<': *id001
-- id: '10833497643049550207'
-  description: エブリデイ☆　エブリニャン☆
-  title: 猫田びより
-  url: https://shonenjumpplus.com/episode/10833497643049550207
   '<<': *id001
 - id: '10833519556325021828'
   description: 目指すは頂！ド白熱高校相撲物語!!
@@ -420,11 +395,6 @@ pages:
   description: 本気の恋、Reスタート！
   title: やり直し姫は夫と恋したい
   url: https://shonenjumpplus.com/episode/3269754496389553638
-  '<<': *id001
-- id: '3269754496868421289'
-  description: 怪奇現象が起こる部屋の謎を解け！
-  title: サマータイムレンダ2026 未然事故物件
-  url: https://shonenjumpplus.com/episode/3269754496868421289
   '<<': *id001
 - id: '3269754496855984778'
   description: ネーム原作マンガ賞 準大賞作品！
@@ -475,11 +445,6 @@ pages:
   description: 復讐心が魔王を呼び起こす——。
   title: 殺戮の王
   url: https://shonenjumpplus.com/episode/3269754496535710137
-  '<<': *id001
-- id: '10833497643049550207'
-  description: エブリデイ☆　エブリニャン☆
-  title: 猫田びより
-  url: https://shonenjumpplus.com/episode/10833497643049550207
   '<<': *id001
 - id: '10833519556325021805'
   description: 甘党&無鉄砲な銀さんがたまに活躍!
@@ -546,11 +511,6 @@ pages:
   title: 全部ぶっ壊す
   url: https://shonenjumpplus.com/episode/3269754496629947146
   '<<': *id001
-- id: '10833497643049550207'
-  description: エブリデイ☆　エブリニャン☆
-  title: 猫田びより
-  url: https://shonenjumpplus.com/episode/10833497643049550207
-  '<<': *id001
 - id: '10833519556325021908'
   description: 子育て!?バトル・コメディ!!
   title: べるぜバブ
@@ -605,16 +565,6 @@ pages:
   description: 心も清浄するほっこりコメディ!!
   title: 空気を清浄するイオンちゃん
   url: https://shonenjumpplus.com/episode/3269754496868421303
-  '<<': *id001
-- id: heppoko_01
-  description: ジャンプにちなんだ探検的ルポマンガ！
-  title: すすめ！ジャンプへっぽこ探検隊！
-  url: https://shonenjumpplus.com/article/entry/heppoko_01
-  '<<': *id001
-- id: '10834108156703275439'
-  description: 劇場アニメ、完全コミカライズ!!
-  title: PSYCHO-PASS サイコパス 3
-  url: https://shonenjumpplus.com/episode/10834108156703275439
   '<<': *id001
 - id: '10834108156632735347'
   description: その日、彼女は女の子をやめた——。
@@ -680,11 +630,6 @@ pages:
   description: 仲良し兄妹（!?）の日常コメディ☆
   title: 兄に付ける薬はない！
   url: https://shonenjumpplus.com/episode/13932016480028984277
-  '<<': *id001
-- id: '10833497643049549836'
-  description: 国を擬人化したら、愛しさアップ☆
-  title: ヘタリア World☆Stars
-  url: https://shonenjumpplus.com/episode/10833497643049549836
   '<<': *id001
 - id: '10833497643049550164'
   description: ジャンプの現場へ潜入ルポ！
