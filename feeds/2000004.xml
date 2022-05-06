@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[フェイト／エクストラ CCC FoxTail]]></title>
+    <link>https://web-ace.jp/tmca/contents/2000004/</link>
+    <atom:link href="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000004.xml" rel="self"/>
+    <description><![CDATA[]]></description>
+    <lastBuildDate>Fri, 06 May 2022 19:19:18 +0000</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[Chapter57-1]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000004/episode/1987/</link>
+      
+        <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[再起Ⅱ①]]></description>
+      <content:encoded><![CDATA[再起Ⅱ①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1987/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Chapter56-2]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000004/episode/1959/</link>
+      
+        <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[再起Ⅰ②]]></description>
+      <content:encoded><![CDATA[再起Ⅰ②]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1959/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Chapter56-1]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000004/episode/1958/</link>
+      
+        <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[再起Ⅰ①]]></description>
+      <content:encoded><![CDATA[再起Ⅰ①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1958/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Chapter55-2]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000004/episode/1911/</link>
+      
+        <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[目覚め②]]></description>
+      <content:encoded><![CDATA[目覚め②]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1911/</guid>
+      
+    </item>
+    
+    <item>
+      <title><![CDATA[Chapter55-1]]></title>
+      <link>https://web-ace.jp/tmca/contents/2000004/episode/1910/</link>
+      
+        <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <description><![CDATA[目覚め①]]></description>
+      <content:encoded><![CDATA[目覚め①]]></content:encoded>
+      <guid isPermaLink="true">https://web-ace.jp/tmca/contents/2000004/episode/1910/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

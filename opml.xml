@@ -1,268 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>Weneedfeed</title>
+    <title>webエース</title>
   </head>
   <body>
-    <outline text="Weneedfeed" title="Weneedfeed">
+    <outline text="webエース" title="webエース">
       
-        <outline type="rss" text="100日後に×××する女社長と新入社員" title="100日後に×××する女社長と新入社員" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496800351411.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496800351411"/>
+        <outline type="rss" text="CANAAN" title="CANAAN" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000026.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000026/"/>
       
-        <outline type="rss" text="2.5次元の誘惑" title="2.5次元の誘惑" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331679642476.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331679642476"/>
+        <outline type="rss" text="Fate/Apocrypha" title="Fate/Apocrypha" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000001.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000001/"/>
       
-        <outline type="rss" text="AURORA NODE" title="AURORA NODE" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496408856071.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496408856071"/>
+        <outline type="rss" text="Fate/Grand Order -Epic of Remnant-  亜種特異点II 伝承地底世界 アガルタ アガルタの女" title="Fate/Grand Order -Epic of Remnant-  亜種特異点II 伝承地底世界 アガルタ アガルタの女" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000003.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000003/"/>
       
-        <outline type="rss" text="After World" title="After World" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496306180406.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496306180406"/>
+        <outline type="rss" text="Fate/Grand Order -Epic of Remnant- 亜種特異点EX 深海電脳楽土 SE.RA.PH" title="Fate/Grand Order -Epic of Remnant- 亜種特異点EX 深海電脳楽土 SE.RA.PH" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000015.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000015/"/>
       
-        <outline type="rss" text="DRAGON BALL" title="DRAGON BALL" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833519556325021841.xml" htmlUrl="https://shonenjumpplus.com/episode/10833519556325021841"/>
+        <outline type="rss" text="Fate/Grand Order コミックアラカルト PLUS! SP 対決編！" title="Fate/Grand Order コミックアラカルト PLUS! SP 対決編！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000030.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000030/"/>
       
-        <outline type="rss" text="GHOST GIRL　ゴーストガール" title="GHOST GIRL　ゴーストガール" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331679018626.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331679018626"/>
+        <outline type="rss" text="Fate/Grand Order フロム ロストベルト" title="Fate/Grand Order フロム ロストベルト" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000017.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000017/"/>
       
-        <outline type="rss" text="HEART GEAR" title="HEART GEAR" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156649693707.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156649693707"/>
+        <outline type="rss" text="Fate/Grand Order 英霊食聞録" title="Fate/Grand Order 英霊食聞録" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000016.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000016/"/>
       
-        <outline type="rss" text="Halloween Avengers" title="Halloween Avengers" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156705167687.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156705167687"/>
+        <outline type="rss" text="Fate/Grand Order 藤丸立香はわからない" title="Fate/Grand Order 藤丸立香はわからない" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000027.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000027/"/>
       
-        <outline type="rss" text="MARVEL×少年ジャンプ　コラボ記念　MARVEL編集長にインタビューしてきました！" title="MARVEL×少年ジャンプ　コラボ記念　MARVEL編集長にインタビューしてきました！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156683808709.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156683808709"/>
+        <outline type="rss" text="Fate/Zero" title="Fate/Zero" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000002.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000002/"/>
       
-        <outline type="rss" text="NARUTO—ナルト—" title="NARUTO—ナルト—" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833519556325021854.xml" htmlUrl="https://shonenjumpplus.com/episode/10833519556325021854"/>
+        <outline type="rss" text="Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!" title="Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000022.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000022/"/>
       
-        <outline type="rss" text="ONE PIECE" title="ONE PIECE" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833519556325021794.xml" htmlUrl="https://shonenjumpplus.com/episode/10833519556325021794"/>
+        <outline type="rss" text="Fate/stay night" title="Fate/stay night" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000005.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000005/"/>
       
-        <outline type="rss" text="ONE PIECE学園" title="ONE PIECE学園" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496842971420.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496842971420"/>
+        <outline type="rss" text="Fate/stay night [Heaven’s Feel]" title="Fate/stay night [Heaven’s Feel]" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000006.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000006/"/>
       
-        <outline type="rss" text="PSYCHO-PASS サイコパス 3" title="PSYCHO-PASS サイコパス 3" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156703275439.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156703275439"/>
+        <outline type="rss" text="MELTY BLOOD" title="MELTY BLOOD" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000007.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000007/"/>
       
-        <outline type="rss" text="SKET DANCE" title="SKET DANCE" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833519556325021944.xml" htmlUrl="https://shonenjumpplus.com/episode/10833519556325021944"/>
+        <outline type="rss" text="TYPE-MOON学園 ちびちゅき！" title="TYPE-MOON学園 ちびちゅき！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000009.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000009/"/>
       
-        <outline type="rss" text="SPY×FAMILY" title="SPY×FAMILY" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156648240735.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156648240735"/>
+        <outline type="rss" text="うぽって SISTERS!!" title="うぽって SISTERS!!" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000052.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000052/"/>
       
-        <outline type="rss" text="Young blood" title="Young blood" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496874192645.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496874192645"/>
+        <outline type="rss" text="そらのおとしもの【リバイバル連載】" title="そらのおとしもの【リバイバル連載】" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000081.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000081/"/>
       
-        <outline type="rss" text="【推しの子】" title="【推しの子】" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331661632099.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331661632099"/>
+        <outline type="rss" text="ねこへん ～ねこと編集～" title="ねこへん ～ねこと編集～" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000148.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000148/"/>
       
-        <outline type="rss" text="あやかしトライアングル" title="あやかしトライアングル" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496856861013.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496856861013"/>
+        <outline type="rss" text="ひぐらしのなく頃に 業" title="ひぐらしのなく頃に 業" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000147.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000147/"/>
       
-        <outline type="rss" text="いともたやすく行われる十三歳が生きる為のお仕事" title="いともたやすく行われる十三歳が生きる為のお仕事" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156766233558.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156766233558"/>
+        <outline type="rss" text="コハエースEX" title="コハエースEX" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000028.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000028/"/>
       
-        <outline type="rss" text="ういてるふたり" title="ういてるふたり" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496895224892.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496895224892"/>
+        <outline type="rss" text="コハエースXP" title="コハエースXP" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000031.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000031/"/>
       
-        <outline type="rss" text="おいしいコーヒーのいれ方" title="おいしいコーヒーのいれ方" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156693985842.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156693985842"/>
+        <outline type="rss" text="ゼロスキルの料理番" title="ゼロスキルの料理番" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000126.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000126/"/>
       
-        <outline type="rss" text="かおなくし" title="かおなくし" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496874192756.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496874192756"/>
+        <outline type="rss" text="パシリな僕と恋する番長さん" title="パシリな僕と恋する番長さん" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000064.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000064/"/>
       
-        <outline type="rss" text="きるる KILL ME" title="きるる KILL ME" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156763543098.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156763543098"/>
+        <outline type="rss" text="フェイト／エクストラ" title="フェイト／エクストラ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000010.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000010/"/>
       
-        <outline type="rss" text="さくらの詩" title="さくらの詩" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496885813688.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496885813688"/>
+        <outline type="rss" text="フェイト／エクストラ CCC FoxTail" title="フェイト／エクストラ CCC FoxTail" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000004.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000004/"/>
       
-        <outline type="rss" text="さよならミニスカート" title="さよならミニスカート" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156632735347.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156632735347"/>
+        <outline type="rss" text="フェイト／育ステラ" title="フェイト／育ステラ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000085.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000085/"/>
       
-        <outline type="rss" text="さよなら絵梨" title="さよなら絵梨" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496858728104.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496858728104"/>
+        <outline type="rss" text="ヘテロゲニア リンギスティコ ～異種族言語学入門～" title="ヘテロゲニア リンギスティコ ～異種族言語学入門～" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000086.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000086/"/>
       
-        <outline type="rss" text="すすめ！ジャンプへっぽこ探検隊！" title="すすめ！ジャンプへっぽこ探検隊！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/heppoko_01.xml" htmlUrl="https://shonenjumpplus.com/article/entry/heppoko_01"/>
+        <outline type="rss" text="マジカル☆エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる" title="マジカル☆エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000133.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000133/"/>
       
-        <outline type="rss" text="すみれちゃんレシーブ！" title="すみれちゃんレシーブ！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496882366901.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496882366901"/>
+        <outline type="rss" text="マヌケなFPSプレイヤーが異世界へ落ちた場合" title="マヌケなFPSプレイヤーが異世界へ落ちた場合" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000014.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000014/"/>
       
-        <outline type="rss" text="とげとげ" title="とげとげ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331770253912.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331770253912"/>
+        <outline type="rss" text="マリー様をわからせたい！" title="マリー様をわからせたい！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000149.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000149/"/>
       
-        <outline type="rss" text="べるぜバブ" title="べるぜバブ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833519556325021908.xml" htmlUrl="https://shonenjumpplus.com/episode/10833519556325021908"/>
+        <outline type="rss" text="ロード・エルメロイII世の事件簿" title="ロード・エルメロイII世の事件簿" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000012.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000012/"/>
       
-        <outline type="rss" text="もどるもどるすすむ／2022年2月期JUMP新世界漫画賞" title="もどるもどるすすむ／2022年2月期JUMP新世界漫画賞" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496874192744.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496874192744"/>
+        <outline type="rss" text="一億年ボタンを連打した俺は、気付いたら最強になっていた ～落第剣士の学院無双～" title="一億年ボタンを連打した俺は、気付いたら最強になっていた ～落第剣士の学院無双～" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000139.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000139/"/>
       
-        <outline type="rss" text="やり直し姫は夫と恋したい" title="やり直し姫は夫と恋したい" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496389553638.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496389553638"/>
+        <outline type="rss" text="三大陸英雄記" title="三大陸英雄記" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000136.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000136/"/>
       
-        <outline type="rss" text="ゆびきれない" title="ゆびきれない" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496868421276.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496868421276"/>
+        <outline type="rss" text="世界最高の暗殺者、異世界貴族に転生する" title="世界最高の暗殺者、異世界貴族に転生する" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000117.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000117/"/>
       
-        <outline type="rss" text="れっつ！ハイキュー!?" title="れっつ！ハイキュー!?" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833497643049550175.xml" htmlUrl="https://shonenjumpplus.com/episode/10833497643049550175"/>
+        <outline type="rss" text="五十嵐くんと中原くん" title="五十嵐くんと中原くん" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000003.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000003/"/>
       
-        <outline type="rss" text="ろくでなしBLUES" title="ろくでなしBLUES" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833519556325021927.xml" htmlUrl="https://shonenjumpplus.com/episode/10833519556325021927"/>
+        <outline type="rss" text="公爵令嬢の嗜み" title="公爵令嬢の嗜み" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000012.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000012/"/>
       
-        <outline type="rss" text="アナノムジナ" title="アナノムジナ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833497643049550129.xml" htmlUrl="https://shonenjumpplus.com/episode/10833497643049550129"/>
+        <outline type="rss" text="勇者、辞めます" title="勇者、辞めます" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000091.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000091/"/>
       
-        <outline type="rss" text="アフタースクールメイト" title="アフタースクールメイト" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496618897559.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496618897559"/>
+        <outline type="rss" text="北条うららの恋愛小説お書きなさい！" title="北条うららの恋愛小説お書きなさい！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000127.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000127/"/>
       
-        <outline type="rss" text="アベンジャーズ：インタビュー・ウィズ・ヒーローズ" title="アベンジャーズ：インタビュー・ウィズ・ヒーローズ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156693737433.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156693737433"/>
+        <outline type="rss" text="君は死ねない灰かぶりの魔女" title="君は死ねない灰かぶりの魔女" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000144.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000144/"/>
       
-        <outline type="rss" text="アベンジャーズ：ギャグリール" title="アベンジャーズ：ギャグリール" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156687543017.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156687543017"/>
+        <outline type="rss" text="回復術士のやり直し" title="回復術士のやり直し" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000049.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000049/"/>
       
-        <outline type="rss" text="アラガネの子" title="アラガネの子" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331748208168.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331748208168"/>
+        <outline type="rss" text="家が燃えて人生どうでも良くなったから、残ったなけなしの金でダークエルフの奴隷を買った。" title="家が燃えて人生どうでも良くなったから、残ったなけなしの金でダークエルフの奴隷を買った。" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000146.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000146/"/>
       
-        <outline type="rss" text="アンテン様の腹の中" title="アンテン様の腹の中" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496723483979.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496723483979"/>
+        <outline type="rss" text="帝都聖杯奇譚 Fate/type Redline" title="帝都聖杯奇譚 Fate/type Redline" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000014.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000014/"/>
       
-        <outline type="rss" text="アントマン＋" title="アントマン＋" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156710689261.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156710689261"/>
+        <outline type="rss" text="帰ってください！ 阿久津さん" title="帰ってください！ 阿久津さん" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000124.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000124/"/>
       
-        <outline type="rss" text="エイトワード魔法学校へようこそ！" title="エイトワード魔法学校へようこそ！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496429948996.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496429948996"/>
+        <outline type="rss" text="年上エリート女騎士が僕の前でだけ可愛い" title="年上エリート女騎士が僕の前でだけ可愛い" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000134.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000134/"/>
       
-        <outline type="rss" text="エクソシストを堕とせない" title="エクソシストを堕とせない" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496649675685.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496649675685"/>
+        <outline type="rss" text="悪役令嬢？ いいえ、極悪令嬢ですわ" title="悪役令嬢？ いいえ、極悪令嬢ですわ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000128.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000128/"/>
       
-        <outline type="rss" text="オトメの帝国" title="オトメの帝国" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13932016480029123951.xml" htmlUrl="https://shonenjumpplus.com/episode/13932016480029123951"/>
+        <outline type="rss" text="文豪ストレイドッグス DEAD APPLE" title="文豪ストレイドッグス DEAD APPLE" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000082.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000082/"/>
       
-        <outline type="rss" text="カワイスギクライシス" title="カワイスギクライシス" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496392436053.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496392436053"/>
+        <outline type="rss" text="文豪ストレイドッグス わん！" title="文豪ストレイドッグス わん！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000002.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000002/"/>
       
-        <outline type="rss" text="キネマキア" title="キネマキア" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496363847056.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496363847056"/>
+        <outline type="rss" text="文豪ストレイドッグス【武装探偵社YAUP支部】" title="文豪ストレイドッグス【武装探偵社YAUP支部】" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000072.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000072/"/>
       
-        <outline type="rss" text="キン肉マン" title="キン肉マン" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13932016480028928803.xml" htmlUrl="https://shonenjumpplus.com/episode/13932016480028928803"/>
+        <outline type="rss" text="文豪ストレイドッグス外伝 綾辻行人 VS. 京極夏彦" title="文豪ストレイドッグス外伝 綾辻行人 VS. 京極夏彦" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000060.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000060/"/>
       
-        <outline type="rss" text="ゲーミングお嬢様" title="ゲーミングお嬢様" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331681119000.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331681119000"/>
+        <outline type="rss" text="旅ぎゃる！日本じゅーだんチャリきこー" title="旅ぎゃる！日本じゅーだんチャリきこー" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000140.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000140/"/>
       
-        <outline type="rss" text="ココロのプログラム" title="ココロのプログラム" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496567812827.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496567812827"/>
+        <outline type="rss" text="書いて欲しけりゃコレを喰え" title="書いて欲しけりゃコレを喰え" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000145.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000145/"/>
       
-        <outline type="rss" text="ゴダイゴダイゴ" title="ゴダイゴダイゴ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496501949063.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496501949063"/>
+        <outline type="rss" text="最強出涸らし皇子の暗躍帝位争い" title="最強出涸らし皇子の暗躍帝位争い" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000137.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000137/"/>
       
-        <outline type="rss" text="ゴリラ女子高生" title="ゴリラ女子高生" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496451565255.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496451565255"/>
+        <outline type="rss" text="服を着るならこんなふうに" title="服を着るならこんなふうに" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000029.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000029/"/>
       
-        <outline type="rss" text="サウダージにくちづけて" title="サウダージにくちづけて" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496867894440.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496867894440"/>
+        <outline type="rss" text="村づくりゲームのNPCが生身の人間としか思えない" title="村づくりゲームのNPCが生身の人間としか思えない" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000132.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000132/"/>
       
-        <outline type="rss" text="サマータイムレンダ2026 未然事故物件" title="サマータイムレンダ2026 未然事故物件" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496868421289.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496868421289"/>
+        <outline type="rss" text="特殊性癖教室へようこそ" title="特殊性癖教室へようこそ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000107.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000107/"/>
       
-        <outline type="rss" text="サラダ・ヴァイキング" title="サラダ・ヴァイキング" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496629947107.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496629947107"/>
+        <outline type="rss" text="異世界建国記" title="異世界建国記" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000046.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000046/"/>
       
-        <outline type="rss" text="ジャンケットバンク" title="ジャンケットバンク" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496840031515.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496840031515"/>
+        <outline type="rss" text="異世界落語" title="異世界落語" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000084.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000084/"/>
       
-        <outline type="rss" text="ジャンプの正しい作り方！" title="ジャンプの正しい作り方！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833497643049550164.xml" htmlUrl="https://shonenjumpplus.com/episode/10833497643049550164"/>
+        <outline type="rss" text="真月譚 月姫" title="真月譚 月姫" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/2000013.xml" htmlUrl="https://web-ace.jp/tmca/contents/2000013/"/>
       
-        <outline type="rss" text="スシシスターハンター" title="スシシスターハンター" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496827243170.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496827243170"/>
+        <outline type="rss" text="私の拳をうけとめて！" title="私の拳をうけとめて！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000075.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000075/"/>
       
-        <outline type="rss" text="ステージS" title="ステージS" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496790479920.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496790479920"/>
+        <outline type="rss" text="美木さん、大好きです！" title="美木さん、大好きです！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000142.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000142/"/>
       
-        <outline type="rss" text="スロースターター" title="スロースターター" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496840031550.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496840031550"/>
+        <outline type="rss" text="蜘蛛ですが、なにか？" title="蜘蛛ですが、なにか？" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000013.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000013/"/>
       
-        <outline type="rss" text="センコーバトル" title="センコーバトル" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156717012317.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156717012317"/>
+        <outline type="rss" text="蜘蛛ですが、なにか？ 蜘蛛子四姉妹の日常" title="蜘蛛ですが、なにか？ 蜘蛛子四姉妹の日常" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000123.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000123/"/>
       
-        <outline type="rss" text="ダンダダン" title="ダンダダン" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269632237310729754.xml" htmlUrl="https://shonenjumpplus.com/episode/3269632237310729754"/>
+        <outline type="rss" text="衛宮さんちの今日のごはん" title="衛宮さんちの今日のごはん" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000010.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000010/"/>
       
-        <outline type="rss" text="デッドプール：SAMURAI" title="デッドプール：SAMURAI" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156698040198.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156698040198"/>
+        <outline type="rss" text="賢者の孫" title="賢者の孫" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000015.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000015/"/>
       
-        <outline type="rss" text="デビィ・ザ・コルシファは負けず嫌い" title="デビィ・ザ・コルシファは負けず嫌い" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331756948785.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331756948785"/>
+        <outline type="rss" text="賢者の孫 Extra Story" title="賢者の孫 Extra Story" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000105.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000105/"/>
       
-        <outline type="rss" text="トマトイプーのリコピン" title="トマトイプーのリコピン" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156632007715.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156632007715"/>
+        <outline type="rss" text="賢者の孫SP" title="賢者の孫SP" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000122.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000122/"/>
       
-        <outline type="rss" text="トリコ" title="トリコ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833519556325021793.xml" htmlUrl="https://shonenjumpplus.com/episode/10833519556325021793"/>
+        <outline type="rss" text="賢者の孫SS" title="賢者の孫SS" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000129.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000129/"/>
       
-        <outline type="rss" text="ドラゴンの子" title="ドラゴンの子" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496585820291.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496585820291"/>
+        <outline type="rss" text="通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？" title="通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000048.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000048/"/>
       
-        <outline type="rss" text="ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王" title="ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496819320015.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496819320015"/>
+        <outline type="rss" text="野球場でいただきます" title="野球場でいただきます" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000141.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000141/"/>
       
-        <outline type="rss" text="ドラゴンボール外伝　転生したらヤムチャだった件" title="ドラゴンボール外伝　転生したらヤムチャだった件" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833497643049550354.xml" htmlUrl="https://shonenjumpplus.com/episode/10833497643049550354"/>
+        <outline type="rss" text="針子の乙女" title="針子の乙女" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000125.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000125/"/>
       
-        <outline type="rss" text="ニセコイ" title="ニセコイ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833519556325021840.xml" htmlUrl="https://shonenjumpplus.com/episode/10833519556325021840"/>
+        <outline type="rss" text="麗子の風儀 悪役令嬢と呼ばれていますが、ただの貧乏娘です" title="麗子の風儀 悪役令嬢と呼ばれていますが、ただの貧乏娘です" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000138.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000138/"/>
       
-        <outline type="rss" text="ハイキュー部!!" title="ハイキュー部!!" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156655166167.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156655166167"/>
-      
-        <outline type="rss" text="ハイパーインフレーション" title="ハイパーインフレーション" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331749163174.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331749163174"/>
-      
-        <outline type="rss" text="バブル" title="バブル" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496884483900.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496884483900"/>
-      
-        <outline type="rss" text="ピューと吹く！ジャガー" title="ピューと吹く！ジャガー" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833519556325021849.xml" htmlUrl="https://shonenjumpplus.com/episode/10833519556325021849"/>
-      
-        <outline type="rss" text="ヘタリア World☆Stars" title="ヘタリア World☆Stars" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833497643049549836.xml" htmlUrl="https://shonenjumpplus.com/episode/10833497643049549836"/>
-      
-        <outline type="rss" text="マジメサキュバス柊さん" title="マジメサキュバス柊さん" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496398375123.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496398375123"/>
-      
-        <outline type="rss" text="マリッジトキシン" title="マリッジトキシン" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496881854355.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496881854355"/>
-      
-        <outline type="rss" text="ミス・リトルグレイ" title="ミス・リトルグレイ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496381675593.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496381675593"/>
-      
-        <outline type="rss" text="ラブ・ラブリー♡アイサと腐敗／2022年2月期JUMP新世界漫画賞" title="ラブ・ラブリー♡アイサと腐敗／2022年2月期JUMP新世界漫画賞" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496874192731.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496874192731"/>
-      
-        <outline type="rss" text="ラーメン赤猫" title="ラーメン赤猫" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496804659304.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496804659304"/>
-      
-        <outline type="rss" text="レンズ越しのあなたへ／2022年2月期JUMP新世界漫画賞" title="レンズ越しのあなたへ／2022年2月期JUMP新世界漫画賞" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496874192705.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496874192705"/>
-      
-        <outline type="rss" text="ヴィジランテ-僕のヒーローアカデミア ILLEGALS-" title="ヴィジランテ-僕のヒーローアカデミア ILLEGALS-" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833497643049550348.xml" htmlUrl="https://shonenjumpplus.com/episode/10833497643049550348"/>
-      
-        <outline type="rss" text="一人之下" title="一人之下" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13932016480029236443.xml" htmlUrl="https://shonenjumpplus.com/episode/13932016480029236443"/>
-      
-        <outline type="rss" text="両性別/2022年3月期ブロンズルーキー賞" title="両性別/2022年3月期ブロンズルーキー賞" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496874192788.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496874192788"/>
-      
-        <outline type="rss" text="久保さんは僕を許さない" title="久保さんは僕を許さない" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331692600972.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331692600972"/>
-      
-        <outline type="rss" text="人間観察" title="人間観察" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496874192679.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496874192679"/>
-      
-        <outline type="rss" text="兄に付ける薬はない！" title="兄に付ける薬はない！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13932016480028984277.xml" htmlUrl="https://shonenjumpplus.com/episode/13932016480028984277"/>
-      
-        <outline type="rss" text="全部ぶっ壊す" title="全部ぶっ壊す" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496629947146.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496629947146"/>
-      
-        <outline type="rss" text="劣等眼の転生魔術師" title="劣等眼の転生魔術師" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156641772492.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156641772492"/>
-      
-        <outline type="rss" text="口が裂けても君には" title="口が裂けても君には" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331735620819.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331735620819"/>
-      
-        <outline type="rss" text="君のことが大大大大大好きな100人の彼女" title="君のことが大大大大大好きな100人の彼女" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331623812157.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331623812157"/>
-      
-        <outline type="rss" text="國我政宗の呪難" title="國我政宗の呪難" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496885813673.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496885813673"/>
-      
-        <outline type="rss" text="天狗とわらし" title="天狗とわらし" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496484998881.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496484998881"/>
-      
-        <outline type="rss" text="姫様“拷問”の時間です" title="姫様“拷問”の時間です" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156649530410.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156649530410"/>
-      
-        <outline type="rss" text="左ききのエレン" title="左ききのエレン" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13932016480029111789.xml" htmlUrl="https://shonenjumpplus.com/episode/13932016480029111789"/>
-      
-        <outline type="rss" text="彼岸此岸のものどもよ" title="彼岸此岸のものどもよ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496649850232.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496649850232"/>
-      
-        <outline type="rss" text="忘却バッテリー" title="忘却バッテリー" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156630506434.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156630506434"/>
-      
-        <outline type="rss" text="怪獣８号" title="怪獣８号" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331674116123.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331674116123"/>
-      
-        <outline type="rss" text="恋するワンピース" title="恋するワンピース" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156631134199.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156631134199"/>
-      
-        <outline type="rss" text="恋人以上友人未満" title="恋人以上友人未満" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496837584613.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496837584613"/>
-      
-        <outline type="rss" text="新宿LIAR♡GIRLS/2022年3月期ブロンズルーキー賞" title="新宿LIAR♡GIRLS/2022年3月期ブロンズルーキー賞" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496874192772.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496874192772"/>
-      
-        <outline type="rss" text="株式会社マジルミエ" title="株式会社マジルミエ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496555043141.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496555043141"/>
-      
-        <outline type="rss" text="歯医者さん、あタってます！" title="歯医者さん、あタってます！" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331646901547.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331646901547"/>
-      
-        <outline type="rss" text="殺戮の王" title="殺戮の王" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496535710137.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496535710137"/>
-      
-        <outline type="rss" text="瀬文麗歩のイイ奇聞" title="瀬文麗歩のイイ奇聞" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496630495765.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496630495765"/>
-      
-        <outline type="rss" text="火ノ丸相撲" title="火ノ丸相撲" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833519556325021828.xml" htmlUrl="https://shonenjumpplus.com/episode/10833519556325021828"/>
-      
-        <outline type="rss" text="猫田びより" title="猫田びより" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833497643049550207.xml" htmlUrl="https://shonenjumpplus.com/episode/10833497643049550207"/>
-      
-        <outline type="rss" text="男坂" title="男坂" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13932016480028895758.xml" htmlUrl="https://shonenjumpplus.com/episode/13932016480028895758"/>
-      
-        <outline type="rss" text="真・群青戦記" title="真・群青戦記" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269632237264556385.xml" htmlUrl="https://shonenjumpplus.com/episode/3269632237264556385"/>
-      
-        <outline type="rss" text="神のまにまに" title="神のまにまに" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496419328851.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496419328851"/>
-      
-        <outline type="rss" text="神様、キサマを殺したい。" title="神様、キサマを殺したい。" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833497643049550192.xml" htmlUrl="https://shonenjumpplus.com/episode/10833497643049550192"/>
-      
-        <outline type="rss" text="神食の料理人" title="神食の料理人" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496421073063.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496421073063"/>
-      
-        <outline type="rss" text="空気を清浄するイオンちゃん" title="空気を清浄するイオンちゃん" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496868421303.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496868421303"/>
-      
-        <outline type="rss" text="第二模式 MODEⅡ" title="第二模式 MODEⅡ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156629383550.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156629383550"/>
-      
-        <outline type="rss" text="紫烟の人" title="紫烟の人" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496851712298.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496851712298"/>
-      
-        <outline type="rss" text="終末のハーレム" title="終末のハーレム" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833497643049550172.xml" htmlUrl="https://shonenjumpplus.com/episode/10833497643049550172"/>
-      
-        <outline type="rss" text="終末のハーレム ファンタジア" title="終末のハーレム ファンタジア" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156631137345.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156631137345"/>
-      
-        <outline type="rss" text="終末のハーレム ファンタジア学園" title="終末のハーレム ファンタジア学園" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331686864117.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331686864117"/>
-      
-        <outline type="rss" text="美術部の上村が死んだ" title="美術部の上村が死んだ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496854369150.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496854369150"/>
-      
-        <outline type="rss" text="群青のマグメル" title="群青のマグメル" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833497643049550169.xml" htmlUrl="https://shonenjumpplus.com/episode/10833497643049550169"/>
-      
-        <outline type="rss" text="腹腹先生" title="腹腹先生" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496422246690.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496422246690"/>
-      
-        <outline type="rss" text="赤面しないで関目さん" title="赤面しないで関目さん" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331779151708.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331779151708"/>
-      
-        <outline type="rss" text="遊星から君へ" title="遊星から君へ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496895767386.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496895767386"/>
-      
-        <outline type="rss" text="道産子ギャルはなまらめんこい" title="道産子ギャルはなまらめんこい" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156684177150.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156684177150"/>
-      
-        <outline type="rss" text="銀魂" title="銀魂" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10833519556325021805.xml" htmlUrl="https://shonenjumpplus.com/episode/10833519556325021805"/>
-      
-        <outline type="rss" text="阿波連さんははかれない" title="阿波連さんははかれない" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13932016480028799982.xml" htmlUrl="https://shonenjumpplus.com/episode/13932016480028799982"/>
-      
-        <outline type="rss" text="骸骨と恋はできるのか？" title="骸骨と恋はできるのか？" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496855984778.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496855984778"/>
-      
-        <outline type="rss" text="魔都精兵のスレイブ" title="魔都精兵のスレイブ" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/10834108156641784254.xml" htmlUrl="https://shonenjumpplus.com/episode/10834108156641784254"/>
-      
-        <outline type="rss" text="鴨乃橋ロンの禁断推理" title="鴨乃橋ロンの禁断推理" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331719348891.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331719348891"/>
+        <outline type="rss" text="黄昏メアレス -魔法使いと黒猫のウィズ Chronicle-" title="黄昏メアレス -魔法使いと黒猫のウィズ Chronicle-" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/1000143.xml" htmlUrl="https://web-ace.jp/youngaceup/contents/1000143/"/>
       
     </outline>
   </body>
