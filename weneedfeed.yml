@@ -7,9 +7,9 @@ selectors: &selectors
   item_title_selector: volume
 pages:
 - id: '3269754496856861013'
-  description: 魔王を倒した勇者一行。魔法使いフリーレンはエルフであり、他の３人と違う部分があります。彼女が”後”の世界で生きること、感じることとは――
-  title: サンデーうぇぶり（葬送のフリーレン）
-  url: https://www.sunday-webry.com/episode/3269754496548997914
+  description: やらかしちゃったドジっ子新入社員・マイ。責任を取るため、美人社長・エリの提案で女同士だけど付き合うことに。100日後に２人の関係は一体どうなるの!?社長×新入社員の純情百合ラブコメ開幕!!
+  title: 少年ジャンプ＋（100日後に×××する女社長と新入社員）
+  url: https://shonenjumpplus.com/rss/series/3269754496800351401
   '<<': *selectors
 - id: '3269754496804659304'
   description: おいしくて、癒されるネコメディ！
