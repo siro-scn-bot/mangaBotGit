@@ -7,9 +7,7 @@ selectors: &selectors
   item_title_selector: volume
 pages:
 - id: '3269754496856861013'
-  description: 魔王を倒した勇者一行。
-魔法使いフリーレンはエルフであり、他の３人と違う部分があります。
-彼女が”後”の世界で生きること、感じることとは――
+  description: 魔王を倒した勇者一行。魔法使いフリーレンはエルフであり、他の３人と違う部分があります。彼女が”後”の世界で生きること、感じることとは――
   title: サンデーうぇぶり（葬送のフリーレン）
   url: https://www.sunday-webry.com/episode/3269754496548997914
   '<<': *selectors
