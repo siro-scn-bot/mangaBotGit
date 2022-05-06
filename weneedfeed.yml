@@ -6,648 +6,648 @@ selectors: &id001
   item_time_selector: member_publish_start
   item_title_selector: volume
 pages:
-- id: '3269754496856861013'
-  description: あやかし恋愛ファンタジー
-  title: あやかしトライアングル
-  url: https://shonenjumpplus.com/episode/3269754496856861013
-  '<<': *id001
-- id: '3269754496804659304'
-  description: おいしくて、癒されるネコメディ！
-  title: ラーメン赤猫
-  url: https://shonenjumpplus.com/episode/3269754496804659304
-  '<<': *id001
-- id: '13933686331756948785'
-  description: チョロすぎ悪魔との暇つぶしコメディ！
-  title: デビィ・ザ・コルシファは負けず嫌い
-  url: https://shonenjumpplus.com/episode/13933686331756948785
-  '<<': *id001
-- id: '3269754496422246690'
-  description: vs極道、裏社会。妹奪還の為姉は
-  title: 腹腹先生
-  url: https://shonenjumpplus.com/episode/3269754496422246690
-  '<<': *id001
-- id: '3269754496884483900'
-  description: 新体験グラビティ・アクション！
-  title: バブル
-  url: https://shonenjumpplus.com/episode/3269754496884483900
-  '<<': *id001
-- id: '10834108156655166167'
-  description: ライバル校大活躍！「ハイキュー!!」スピンオフ部活コメディ!!
-  title: ハイキュー部!!
-  url: https://shonenjumpplus.com/episode/10834108156655166167
-  '<<': *id001
-- id: '10834108156632007715'
-  description: ジャンプ＋史上一番カワイイ(!?)話題作！
-  title: トマトイプーのリコピン
-  url: https://shonenjumpplus.com/episode/10834108156632007715
-  '<<': *id001
-- id: '3269754496363847056'
-  description: 戦慄のホラーバトル開幕——！
-  title: キネマキア
-  url: https://shonenjumpplus.com/episode/3269754496363847056
-  '<<': *id001
-- id: '10833497643049550207'
-  description: エブリデイ☆　エブリニャン☆
-  title: 猫田びより
-  url: https://shonenjumpplus.com/episode/10833497643049550207
-  '<<': *id001
-- id: heppoko_01
-  description: ジャンプにちなんだ探検的ルポマンガ！
-  title: すすめ！ジャンプへっぽこ探検隊！
-  url: https://shonenjumpplus.com/article/entry/heppoko_01
-  '<<': *id001
-- id: '13932016480028928803'
-  description: 新シリーズ連載開始！
-  title: キン肉マン
-  url: https://shonenjumpplus.com/episode/13932016480028928803
-  '<<': *id001
-- id: '3269754496874192705'
-  description: カメラが紡ぐ、時を越えた物語!!
-  title: レンズ越しのあなたへ／2022年2月期JUMP新世界漫画賞
-  url: https://shonenjumpplus.com/episode/3269754496874192705
-  '<<': *id001
-- id: '3269754496874192731'
-  description: この魔法少女の物語は、永遠か、それとも—…。
-  title: ラブ・ラブリー♡アイサと腐敗／2022年2月期JUMP新世界漫画賞
-  url: https://shonenjumpplus.com/episode/3269754496874192731
-  '<<': *id001
-- id: '3269754496874192744'
-  description: 繰り返す。君が死ぬその時を。
-  title: もどるもどるすすむ／2022年2月期JUMP新世界漫画賞
-  url: https://shonenjumpplus.com/episode/3269754496874192744
-  '<<': *id001
-- id: '10833519556325021841'
-  description: 鳥山明の不朽不滅の超名作！
-  title: DRAGON BALL
-  url: https://shonenjumpplus.com/episode/10833519556325021841
-  '<<': *id001
-- id: '10834108156648240735'
-  description: 凄腕スパイ×特殊家族コメディ…!!
-  title: SPY×FAMILY
-  url: https://shonenjumpplus.com/episode/10834108156648240735
-  '<<': *id001
-- id: '3269754496630495765'
-  description: ダメダメ怪談師“おとぼけ”ホラー
-  title: 瀬文麗歩のイイ奇聞
-  url: https://shonenjumpplus.com/episode/3269754496630495765
-  '<<': *id001
-- id: '3269754496501949063'
-  description: 巨大ヒーローがお金に困る話
-  title: ゴダイゴダイゴ
-  url: https://shonenjumpplus.com/episode/3269754496501949063
-  '<<': *id001
-- id: '3269754496381675593'
-  description: 前世の記憶を持つ伯爵令嬢物語！
-  title: ミス・リトルグレイ
-  url: https://shonenjumpplus.com/episode/3269754496381675593
-  '<<': *id001
-- id: '13933686331770253912'
-  description: 少年は生きる、弱肉強食の現代を。
-  title: とげとげ
-  url: https://shonenjumpplus.com/episode/13933686331770253912
-  '<<': *id001
-- id: '3269754496874192788'
-  description: ブロンズルーキー賞受賞作！
-  title: 両性別/2022年3月期ブロンズルーキー賞
-  url: https://shonenjumpplus.com/episode/3269754496874192788
-  '<<': *id001
-- id: '3269754496874192679'
-  description: 隣人はどんな‟ヒト”ですか？
-  title: 人間観察
-  url: https://shonenjumpplus.com/episode/3269754496874192679
-  '<<': *id001
-- id: '3269754496858728104'
-  description: 鬼才・藤本タツキが放つ長編読切！
-  title: さよなら絵梨
-  url: https://shonenjumpplus.com/episode/3269754496858728104
-  '<<': *id001
-- id: '3269754496874192756'
-  description: そのウワサを知っているか
-  title: かおなくし
-  url: https://shonenjumpplus.com/episode/3269754496874192756
-  '<<': *id001
-- id: '3269632237310729754'
-  description: オカルティックバトル＆ラブ物語！
-  title: ダンダダン
-  url: https://shonenjumpplus.com/episode/3269632237310729754
-  '<<': *id001
-- id: '10834108156649530410'
-  description: 拷問につぐ拷問ファンタジー！
-  title: 姫様“拷問”の時間です
-  url: https://shonenjumpplus.com/episode/10834108156649530410
-  '<<': *id001
-- id: '3269754496837584613'
-  description: 元AV女優＆男優の可愛さ炸裂ッ！
-  title: 恋人以上友人未満
-  url: https://shonenjumpplus.com/episode/3269754496837584613
-  '<<': *id001
-- id: '3269754496392436053'
-  description: 宇宙人の“ねこ”初体験コメディ!!
-  title: カワイスギクライシス
-  url: https://shonenjumpplus.com/episode/3269754496392436053
-  '<<': *id001
-- id: '13933686331681119000'
-  description: 目指せ！格ゲー界最強“eお嬢様”!!
-  title: ゲーミングお嬢様
-  url: https://shonenjumpplus.com/episode/13933686331681119000
-  '<<': *id001
-- id: '3269754496618897559'
-  description: 「個」を問う青春ドラマ!!
-  title: アフタースクールメイト
-  url: https://shonenjumpplus.com/episode/3269754496618897559
-  '<<': *id001
-- id: '10833519556325021944'
-  description: 青春！学園コメディの決定版!!
-  title: SKET DANCE
-  url: https://shonenjumpplus.com/episode/10833519556325021944
-  '<<': *id001
-- id: '10833519556325021794'
-  description: 全世界4億9千万部ヒットの超大作！
-  title: ONE PIECE
-  url: https://shonenjumpplus.com/episode/10833519556325021794
-  '<<': *id001
-- id: '13933686331735620819'
-  description: 口裂け女×男子高校生の婚約生活!?
-  title: 口が裂けても君には
-  url: https://shonenjumpplus.com/episode/13933686331735620819
-  '<<': *id001
-- id: '13933686331779151708'
-  description: 照れすぎる彼女との赤面ラブコメ！
-  title: 赤面しないで関目さん
-  url: https://shonenjumpplus.com/episode/13933686331779151708
-  '<<': *id001
-- id: '13933686331679018626'
-  description: オカルティックアクションコメディ
-  title: GHOST GIRL　ゴーストガール
-  url: https://shonenjumpplus.com/episode/13933686331679018626
-  '<<': *id001
-- id: '3269754496585820291'
-  description: 空から竜の卵が落ちてきて——!?
-  title: ドラゴンの子
-  url: https://shonenjumpplus.com/episode/3269754496585820291
-  '<<': *id001
-- id: '3269754496851712298'
-  description: その初老、危険─…！
-  title: 紫烟の人
-  url: https://shonenjumpplus.com/episode/3269754496851712298
-  '<<': *id001
-- id: '3269754496895224892'
-  description: 同じだけど違う、ふたりの話。
-  title: ういてるふたり
-  url: https://shonenjumpplus.com/episode/3269754496895224892
-  '<<': *id001
-- id: '10834108156684177150'
-  description: 北の大地で贈る青春ギャルラブコメ♪
-  title: 道産子ギャルはなまらめんこい
-  url: https://shonenjumpplus.com/episode/10834108156684177150
-  '<<': *id001
-- id: '13933686331692600972'
-  description: ヒロイン×モブ 思春期スイートコメディ
-  title: 久保さんは僕を許さない
-  url: https://shonenjumpplus.com/episode/13933686331692600972
-  '<<': *id001
-- id: '3269754496555043141'
-  description: ベンチャー企業×魔法少女アクション!!
-  title: 株式会社マジルミエ
-  url: https://shonenjumpplus.com/episode/3269754496555043141
-  '<<': *id001
-- id: '3269754496881854355'
-  description: 殺し屋×詐欺師の世界一波乱な婚活
-  title: マリッジトキシン
-  url: https://shonenjumpplus.com/episode/3269754496881854355
-  '<<': *id001
-- id: '13932016480029123951'
-  description: 百合漫画の日本代表！
-  title: オトメの帝国
-  url: https://shonenjumpplus.com/episode/13932016480029123951
-  '<<': *id001
-- id: '3269754496840031515'
-  description: 新時代のギャンブルバトルin銀行
-  title: ジャンケットバンク
-  url: https://shonenjumpplus.com/episode/3269754496840031515
-  '<<': *id001
-- id: '10834108156693985842'
-  description: 恋した女は５歳年上のいとこでした
-  title: おいしいコーヒーのいれ方
-  url: https://shonenjumpplus.com/episode/10834108156693985842
-  '<<': *id001
-- id: '3269754496408856071'
-  description: 俺の“現実”がはじまる——
-  title: AURORA NODE
-  url: https://shonenjumpplus.com/episode/3269754496408856071
-  '<<': *id001
-- id: '3269754496649675685'
-  description: 恋を知らない少年神父の聖戦記！
-  title: エクソシストを堕とせない
-  url: https://shonenjumpplus.com/episode/3269754496649675685
-  '<<': *id001
-- id: '13933686331748208168'
-  description: 師が子を磨く鉱石職人ファンタジー
-  title: アラガネの子
-  url: https://shonenjumpplus.com/episode/13933686331748208168
-  '<<': *id001
-- id: '10834108156649693707'
-  description: 少女とギアが未知へと挑む…！
-  title: HEART GEAR
-  url: https://shonenjumpplus.com/episode/10834108156649693707
-  '<<': *id001
-- id: '3269754496484998881'
-  description: マッスル＆カワイイ妖怪コメディ！
-  title: 天狗とわらし
-  url: https://shonenjumpplus.com/episode/3269754496484998881
-  '<<': *id001
-- id: '3269632237264556385'
-  description: “現代の凶悪犯vs戦国武将”!!
-  title: 真・群青戦記
-  url: https://shonenjumpplus.com/episode/3269632237264556385
-  '<<': *id001
-- id: '3269754496840031550'
-  description: 遅咲きの新人アイドル成長物語
-  title: スロースターター
-  url: https://shonenjumpplus.com/episode/3269754496840031550
-  '<<': *id001
-- id: '3269754496867894440'
-  description: ビターな大人初恋物語
-  title: サウダージにくちづけて
-  url: https://shonenjumpplus.com/episode/3269754496867894440
-  '<<': *id001
-- id: '3269754496882366901'
-  description: 相撲少女が挑む熱血バレーボール譚！
-  title: すみれちゃんレシーブ！
-  url: https://shonenjumpplus.com/episode/3269754496882366901
-  '<<': *id001
-- id: '13933686331661632099'
-  description: '"赤坂アカ×横槍メンゴ"豪華共演！'
-  title: 【推しの子】
-  url: https://shonenjumpplus.com/episode/13933686331661632099
-  '<<': *id001
-- id: '10834108156630506434'
-  description: 天才たちは出会ってしまった…！
-  title: 忘却バッテリー
-  url: https://shonenjumpplus.com/episode/10834108156630506434
-  '<<': *id001
-- id: '10834108156766233558'
-  description: 殺人鬼は、十三歳——。
-  title: いともたやすく行われる十三歳が生きる為のお仕事
-  url: https://shonenjumpplus.com/episode/10834108156766233558
-  '<<': *id001
-- id: '13933686331623812157'
-  description: 好きっていいたい！いわれたい!!
-  title: 君のことが大大大大大好きな100人の彼女
-  url: https://shonenjumpplus.com/episode/13933686331623812157
-  '<<': *id001
-- id: '3269754496419328851'
-  description: 神へ挑む！浪漫聖戦巨弾新連載ッ!!
-  title: 神のまにまに
-  url: https://shonenjumpplus.com/episode/3269754496419328851
-  '<<': *id001
-- id: '3269754496451565255'
-  description: JK(※ゴリラ)笑撃スクールライフ!!
-  title: ゴリラ女子高生
-  url: https://shonenjumpplus.com/episode/3269754496451565255
-  '<<': *id001
-- id: '10833497643049549836'
-  description: 国を擬人化したら、愛しさアップ☆
-  title: ヘタリア World☆Stars
-  url: https://shonenjumpplus.com/episode/10833497643049549836
-  '<<': *id001
-- id: '10833519556325021849'
-  description: 青春不条理ギャグマンガ！
-  title: ピューと吹く！ジャガー
-  url: https://shonenjumpplus.com/episode/10833519556325021849
-  '<<': *id001
-- id: '10833519556325021927'
-  description: ジャンプを代表するヤンキー漫画！
-  title: ろくでなしBLUES
-  url: https://shonenjumpplus.com/episode/10833519556325021927
-  '<<': *id001
-- id: '3269754496429948996'
-  description: 魔法×恋×学園の青春群像劇♪
-  title: エイトワード魔法学校へようこそ！
-  url: https://shonenjumpplus.com/episode/3269754496429948996
-  '<<': *id001
-- id: '3269754496868421289'
-  description: 怪奇現象が起こる部屋の謎を解け！
-  title: サマータイムレンダ2026 未然事故物件
-  url: https://shonenjumpplus.com/episode/3269754496868421289
-  '<<': *id001
-- id: '3269754496868421276'
-  description: 幼馴染の”小指”が伸びた…!?
-  title: ゆびきれない
-  url: https://shonenjumpplus.com/episode/3269754496868421276
-  '<<': *id001
-- id: '3269754496854369150'
-  description: 死を超えた新時代青春ドラマ読切！
-  title: 美術部の上村が死んだ
-  url: https://shonenjumpplus.com/episode/3269754496854369150
-  '<<': *id001
-- id: '3269754496398375123'
-  description: お隣のサキュバスは勤労で禁欲で
-  title: マジメサキュバス柊さん
-  url: https://shonenjumpplus.com/episode/3269754496398375123
-  '<<': *id001
-- id: '3269754496800351411'
-  description: 社長×新入社員純情百合ラブコメ♡
-  title: 100日後に×××する女社長と新入社員
-  url: https://shonenjumpplus.com/episode/3269754496800351411
-  '<<': *id001
-- id: '3269754496827243170'
-  description: 寿司屋でシスターでハンターです。
-  title: スシシスターハンター
-  url: https://shonenjumpplus.com/episode/3269754496827243170
-  '<<': *id001
-- id: '3269754496649850232'
-  description: 口寄と退魔を巡る現代奇譚姉妹物語
-  title: 彼岸此岸のものどもよ
-  url: https://shonenjumpplus.com/episode/3269754496649850232
-  '<<': *id001
-- id: '10833519556325021828'
-  description: 目指すは頂！ド白熱高校相撲物語!!
-  title: 火ノ丸相撲
-  url: https://shonenjumpplus.com/episode/10833519556325021828
-  '<<': *id001
-- id: '10833519556325021793'
-  description: 最高の食材を求め旅へ出る!!
-  title: トリコ
-  url: https://shonenjumpplus.com/episode/10833519556325021793
-  '<<': *id001
-- id: '13933686331674116123'
-  description: この男、正体は怪獣…！
-  title: 怪獣８号
-  url: https://shonenjumpplus.com/episode/13933686331674116123
-  '<<': *id001
-- id: '13933686331749163174'
-  description: 言い値で買おう、この世界
-  title: ハイパーインフレーション
-  url: https://shonenjumpplus.com/episode/13933686331749163174
-  '<<': *id001
-- id: '3269754496842971420'
-  description: 『ONE PIECE』公式スピンオフ！
-  title: ONE PIECE学園
-  url: https://shonenjumpplus.com/episode/3269754496842971420
-  '<<': *id001
-- id: '10834108156717012317'
-  description: 最強先生決定戦開幕!!
-  title: センコーバトル
-  url: https://shonenjumpplus.com/episode/10834108156717012317
-  '<<': *id001
-- id: '3269754496389553638'
-  description: 本気の恋、Reスタート！
-  title: やり直し姫は夫と恋したい
-  url: https://shonenjumpplus.com/episode/3269754496389553638
-  '<<': *id001
-- id: '3269754496855984778'
-  description: ネーム原作マンガ賞 準大賞作品！
-  title: 骸骨と恋はできるのか？
-  url: https://shonenjumpplus.com/episode/3269754496855984778
-  '<<': *id001
-- id: '3269754496885813673'
-  description: 秘術をめぐる縁と怨——
-  title: 國我政宗の呪難
-  url: https://shonenjumpplus.com/episode/3269754496885813673
-  '<<': *id001
-- id: '10834108156641784254'
-  description: 飼われる少年のバトルファンタジー
-  title: 魔都精兵のスレイブ
-  url: https://shonenjumpplus.com/episode/10834108156641784254
-  '<<': *id001
-- id: '13933686331679642476'
-  description: 愛、バトル、青春！最もジャンプなコスプレ漫画！
-  title: 2.5次元の誘惑
-  url: https://shonenjumpplus.com/episode/13933686331679642476
-  '<<': *id001
-- id: '13932016480029111789'
-  description: 心を抉るクリエイター群像劇…！
-  title: 左ききのエレン
-  url: https://shonenjumpplus.com/episode/13932016480029111789
-  '<<': *id001
-- id: '10833497643049550348'
-  description: 正義問答！少年よ外伝になれ!!
-  title: ヴィジランテ-僕のヒーローアカデミア ILLEGALS-
-  url: https://shonenjumpplus.com/episode/10833497643049550348
-  '<<': *id001
-- id: '3269754496819320015'
-  description: 『ダイの大冒険』外伝————
-  title: ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王
-  url: https://shonenjumpplus.com/episode/3269754496819320015
-  '<<': *id001
-- id: '3269754496629947107'
-  description: 宇宙人、農業はじめます。
-  title: サラダ・ヴァイキング
-  url: https://shonenjumpplus.com/episode/3269754496629947107
-  '<<': *id001
-- id: '10833497643049550175'
-  description: 意外な一面を知る!?公式スピンオフ
-  title: れっつ！ハイキュー!?
-  url: https://shonenjumpplus.com/episode/10833497643049550175
-  '<<': *id001
-- id: '3269754496535710137'
-  description: 復讐心が魔王を呼び起こす——。
-  title: 殺戮の王
-  url: https://shonenjumpplus.com/episode/3269754496535710137
-  '<<': *id001
-- id: '10833519556325021805'
-  description: 甘党&無鉄砲な銀さんがたまに活躍!
-  title: 銀魂
-  url: https://shonenjumpplus.com/episode/10833519556325021805
-  '<<': *id001
-- id: '10833519556325021854'
-  description: 全世界大ヒットの忍者漫画！
-  title: NARUTO—ナルト—
-  url: https://shonenjumpplus.com/episode/10833519556325021854
-  '<<': *id001
-- id: '13933686331646901547'
-  description: 極道が恋したのは××な歯医者さん!?
-  title: 歯医者さん、あタってます！
-  url: https://shonenjumpplus.com/episode/13933686331646901547
-  '<<': *id001
-- id: '3269754496421073063'
-  description: 巨大食材と対するは少年料理人！
-  title: 神食の料理人
-  url: https://shonenjumpplus.com/episode/3269754496421073063
-  '<<': *id001
-- id: '10834108156703275439'
-  description: 劇場アニメ、完全コミカライズ!!
-  title: PSYCHO-PASS サイコパス 3
-  url: https://shonenjumpplus.com/episode/10834108156703275439
-  '<<': *id001
-- id: '3269754496874192645'
-  description: 冷たき少女は吸血鬼と出会う——
-  title: Young blood
-  url: https://shonenjumpplus.com/episode/3269754496874192645
-  '<<': *id001
-- id: '3269754496895767386'
-  description: 格子ひとつ隔てたブロマンス49Ｐ!!!
-  title: 遊星から君へ
-  url: https://shonenjumpplus.com/episode/3269754496895767386
-  '<<': *id001
-- id: '13932016480028799982'
-  description: 『はかれない』密着系青春ラブコメ
-  title: 阿波連さんははかれない
-  url: https://shonenjumpplus.com/episode/13932016480028799982
-  '<<': *id001
-- id: '3269754496790479920'
-  description: 死んでも君を守る——
-  title: ステージS
-  url: https://shonenjumpplus.com/episode/3269754496790479920
-  '<<': *id001
-- id: '13933686331719348891'
-  description: 訳あり探偵が謎を解き明かす！
-  title: 鴨乃橋ロンの禁断推理
-  url: https://shonenjumpplus.com/episode/13933686331719348891
-  '<<': *id001
-- id: '10834108156763543098'
-  description: 愛しの暗殺者よ、どうか殺してくれ。
-  title: きるる KILL ME
-  url: https://shonenjumpplus.com/episode/10834108156763543098
-  '<<': *id001
-- id: '10834108156631137345'
-  description: 話題作の本格ダークファンタジー！
-  title: 終末のハーレム ファンタジア
-  url: https://shonenjumpplus.com/episode/10834108156631137345
-  '<<': *id001
-- id: '3269754496629947146'
-  description: 新時代撃滅ファミリーコメディッ!!
-  title: 全部ぶっ壊す
-  url: https://shonenjumpplus.com/episode/3269754496629947146
-  '<<': *id001
-- id: '10833519556325021908'
-  description: 子育て!?バトル・コメディ!!
-  title: べるぜバブ
-  url: https://shonenjumpplus.com/episode/10833519556325021908
-  '<<': *id001
-- id: '10833519556325021840'
-  description: 嘘から始まるラブコメディ!!
-  title: ニセコイ
-  url: https://shonenjumpplus.com/episode/10833519556325021840
-  '<<': *id001
-- id: '10834108156641772492'
-  description: 最強の魔術師が異世界で無双する!!
-  title: 劣等眼の転生魔術師
-  url: https://shonenjumpplus.com/episode/10834108156641772492
-  '<<': *id001
-- id: '3269754496723483979'
-  description: 人の”願い”を巡る奇譚ドラマ連載！
-  title: アンテン様の腹の中
-  url: https://shonenjumpplus.com/episode/3269754496723483979
-  '<<': *id001
-- id: '3269754496306180406'
-  description: めくるめく欲望の新世界、開幕。
-  title: After World
-  url: https://shonenjumpplus.com/episode/3269754496306180406
-  '<<': *id001
-- id: '13933686331686864117'
-  description: 現代の学園でアルクに訪れる“平日の”ハーレム!?
-  title: 終末のハーレム ファンタジア学園
-  url: https://shonenjumpplus.com/episode/13933686331686864117
-  '<<': *id001
-- id: '3269754496567812827'
-  description: ハートフル ボーイ・ミーツ・ロボットガール！
-  title: ココロのプログラム
-  url: https://shonenjumpplus.com/episode/3269754496567812827
-  '<<': *id001
-- id: '10834108156631134199'
-  description: 神をも恐れぬスピンオフギャグ！
-  title: 恋するワンピース
-  url: https://shonenjumpplus.com/episode/10834108156631134199
-  '<<': *id001
-- id: '3269754496874192772'
-  description: ビジネスカップル百合実況恋愛物語
-  title: 新宿LIAR♡GIRLS/2022年3月期ブロンズルーキー賞
-  url: https://shonenjumpplus.com/episode/3269754496874192772
-  '<<': *id001
-- id: '3269754496885813688'
-  description: 「自分」を大事にできないあなたへ
-  title: さくらの詩
-  url: https://shonenjumpplus.com/episode/3269754496885813688
-  '<<': *id001
-- id: '3269754496868421303'
-  description: 心も清浄するほっこりコメディ!!
-  title: 空気を清浄するイオンちゃん
-  url: https://shonenjumpplus.com/episode/3269754496868421303
-  '<<': *id001
-- id: '10834108156632735347'
-  description: その日、彼女は女の子をやめた——。
-  title: さよならミニスカート
-  url: https://shonenjumpplus.com/episode/10834108156632735347
-  '<<': *id001
-- id: '10833497643049550172'
-  description: 男性消滅。5対50億の超ハーレム!
-  title: 終末のハーレム
-  url: https://shonenjumpplus.com/episode/10833497643049550172
-  '<<': *id001
-- id: '10834108156710689261'
-  description: あの最小最強ヒーローが登場！
-  title: アントマン＋
-  url: https://shonenjumpplus.com/episode/10834108156710689261
-  '<<': *id001
-- id: '10834108156705167687'
-  description: ヒーロー達のトリックオアトリート
-  title: Halloween Avengers
-  url: https://shonenjumpplus.com/episode/10834108156705167687
-  '<<': *id001
-- id: '10834108156698040198'
-  description: DEAD POOLのハチャメチャ時代劇!!
-  title: デッドプール：SAMURAI
-  url: https://shonenjumpplus.com/episode/10834108156698040198
-  '<<': *id001
-- id: '10834108156693737433'
-  description: ヒーローに密着取材！その素顔に迫る…!!!
-  title: アベンジャーズ：インタビュー・ウィズ・ヒーローズ
-  url: https://shonenjumpplus.com/episode/10834108156693737433
-  '<<': *id001
-- id: '10834108156687543017'
-  description: MARVELヒーローズの日常系ほのぼの漫画！
-  title: アベンジャーズ：ギャグリール
-  url: https://shonenjumpplus.com/episode/10834108156687543017
-  '<<': *id001
-- id: '10834108156683808709'
-  description: MARVEL編集長に独占インタビュー！
-  title: MARVEL×少年ジャンプ　コラボ記念　MARVEL編集長にインタビューしてきました！
-  url: https://shonenjumpplus.com/episode/10834108156683808709
-  '<<': *id001
-- id: '13932016480028895758'
-  description: 伝説の硬派マンガを見逃すな！
-  title: 男坂
-  url: https://shonenjumpplus.com/episode/13932016480028895758
-  '<<': *id001
-- id: '10833497643049550169'
-  description: 冨樫義博絶賛の冒険アクション！
-  title: 群青のマグメル
-  url: https://shonenjumpplus.com/episode/10833497643049550169
-  '<<': *id001
-- id: '10834108156629383550'
-  description: 心の闇をきく、新感覚サスペンス！
-  title: 第二模式 MODEⅡ
-  url: https://shonenjumpplus.com/episode/10834108156629383550
-  '<<': *id001
-- id: '13932016480029236443'
-  description: 100億ＰＶ突破のＳＦバトル超大作!!
-  title: 一人之下
-  url: https://shonenjumpplus.com/episode/13932016480029236443
-  '<<': *id001
-- id: '13932016480028984277'
-  description: 仲良し兄妹（!?）の日常コメディ☆
-  title: 兄に付ける薬はない！
-  url: https://shonenjumpplus.com/episode/13932016480028984277
-  '<<': *id001
-- id: '10833497643049550164'
-  description: ジャンプの現場へ潜入ルポ！
-  title: ジャンプの正しい作り方！
-  url: https://shonenjumpplus.com/episode/10833497643049550164
-  '<<': *id001
-- id: '10833497643049550129'
-  description: 「悪」を欺く「正義の詐欺師」！
-  title: アナノムジナ
-  url: https://shonenjumpplus.com/episode/10833497643049550129
-  '<<': *id001
-- id: '10833497643049550192'
-  description: 二人の出会いは「破滅」への序曲!?
-  title: 神様、キサマを殺したい。
-  url: https://shonenjumpplus.com/episode/10833497643049550192
-  '<<': *id001
-- id: '10833497643049550354'
-  description: DB外伝！意外なアイツが主人公!!
-  title: ドラゴンボール外伝　転生したらヤムチャだった件
-  url: https://shonenjumpplus.com/episode/10833497643049550354
-  '<<': *id001
+  - id: '3269754496856861013'
+    description: あやかし恋愛ファンタジー
+    title: あやかしトライアングル
+    url: https://shonenjumpplus.com/episode/3269754496856861013
+    '<<': *id001
+  - id: '3269754496804659304'
+    description: おいしくて、癒されるネコメディ！
+    title: ラーメン赤猫
+    url: https://shonenjumpplus.com/episode/3269754496804659304
+    '<<': *id001
+  - id: '13933686331756948785'
+    description: チョロすぎ悪魔との暇つぶしコメディ！
+    title: デビィ・ザ・コルシファは負けず嫌い
+    url: https://shonenjumpplus.com/episode/13933686331756948785
+    '<<': *id001
+  - id: '3269754496422246690'
+    description: vs極道、裏社会。妹奪還の為姉は
+    title: 腹腹先生
+    url: https://shonenjumpplus.com/episode/3269754496422246690
+    '<<': *id001
+  - id: '3269754496884483900'
+    description: 新体験グラビティ・アクション！
+    title: バブル
+    url: https://shonenjumpplus.com/episode/3269754496884483900
+    '<<': *id001
+  - id: '10834108156655166167'
+    description: ライバル校大活躍！「ハイキュー!!」スピンオフ部活コメディ!!
+    title: ハイキュー部!!
+    url: https://shonenjumpplus.com/episode/10834108156655166167
+    '<<': *id001
+  - id: '10834108156632007715'
+    description: ジャンプ＋史上一番カワイイ(!?)話題作！
+    title: トマトイプーのリコピン
+    url: https://shonenjumpplus.com/episode/10834108156632007715
+    '<<': *id001
+  - id: '3269754496363847056'
+    description: 戦慄のホラーバトル開幕——！
+    title: キネマキア
+    url: https://shonenjumpplus.com/episode/3269754496363847056
+    '<<': *id001
+  - id: '10833497643049550207'
+    description: エブリデイ☆　エブリニャン☆
+    title: 猫田びより
+    url: https://shonenjumpplus.com/episode/10833497643049550207
+    '<<': *id001
+  - id: heppoko_01
+    description: ジャンプにちなんだ探検的ルポマンガ！
+    title: すすめ！ジャンプへっぽこ探検隊！
+    url: https://shonenjumpplus.com/article/entry/heppoko_01
+    '<<': *id001
+  - id: '13932016480028928803'
+    description: 新シリーズ連載開始！
+    title: キン肉マン
+    url: https://shonenjumpplus.com/episode/13932016480028928803
+    '<<': *id001
+  - id: '3269754496874192705'
+    description: カメラが紡ぐ、時を越えた物語!!
+    title: レンズ越しのあなたへ／2022年2月期JUMP新世界漫画賞
+    url: https://shonenjumpplus.com/episode/3269754496874192705
+    '<<': *id001
+  - id: '3269754496874192731'
+    description: この魔法少女の物語は、永遠か、それとも—…。
+    title: ラブ・ラブリー♡アイサと腐敗／2022年2月期JUMP新世界漫画賞
+    url: https://shonenjumpplus.com/episode/3269754496874192731
+    '<<': *id001
+  - id: '3269754496874192744'
+    description: 繰り返す。君が死ぬその時を。
+    title: もどるもどるすすむ／2022年2月期JUMP新世界漫画賞
+    url: https://shonenjumpplus.com/episode/3269754496874192744
+    '<<': *id001
+  - id: '10833519556325021841'
+    description: 鳥山明の不朽不滅の超名作！
+    title: DRAGON BALL
+    url: https://shonenjumpplus.com/episode/10833519556325021841
+    '<<': *id001
+  - id: '10834108156648240735'
+    description: 凄腕スパイ×特殊家族コメディ…!!
+    title: SPY×FAMILY
+    url: https://shonenjumpplus.com/episode/10834108156648240735
+    '<<': *id001
+  - id: '3269754496630495765'
+    description: ダメダメ怪談師“おとぼけ”ホラー
+    title: 瀬文麗歩のイイ奇聞
+    url: https://shonenjumpplus.com/episode/3269754496630495765
+    '<<': *id001
+  - id: '3269754496501949063'
+    description: 巨大ヒーローがお金に困る話
+    title: ゴダイゴダイゴ
+    url: https://shonenjumpplus.com/episode/3269754496501949063
+    '<<': *id001
+  - id: '3269754496381675593'
+    description: 前世の記憶を持つ伯爵令嬢物語！
+    title: ミス・リトルグレイ
+    url: https://shonenjumpplus.com/episode/3269754496381675593
+    '<<': *id001
+  - id: '13933686331770253912'
+    description: 少年は生きる、弱肉強食の現代を。
+    title: とげとげ
+    url: https://shonenjumpplus.com/episode/13933686331770253912
+    '<<': *id001
+  - id: '3269754496874192788'
+    description: ブロンズルーキー賞受賞作！
+    title: 両性別/2022年3月期ブロンズルーキー賞
+    url: https://shonenjumpplus.com/episode/3269754496874192788
+    '<<': *id001
+  - id: '3269754496874192679'
+    description: 隣人はどんな‟ヒト”ですか？
+    title: 人間観察
+    url: https://shonenjumpplus.com/episode/3269754496874192679
+    '<<': *id001
+  - id: '3269754496858728104'
+    description: 鬼才・藤本タツキが放つ長編読切！
+    title: さよなら絵梨
+    url: https://shonenjumpplus.com/episode/3269754496858728104
+    '<<': *id001
+  - id: '3269754496874192756'
+    description: そのウワサを知っているか
+    title: かおなくし
+    url: https://shonenjumpplus.com/episode/3269754496874192756
+    '<<': *id001
+  - id: '3269632237310729754'
+    description: オカルティックバトル＆ラブ物語！
+    title: ダンダダン
+    url: https://shonenjumpplus.com/episode/3269632237310729754
+    '<<': *id001
+  - id: '10834108156649530410'
+    description: 拷問につぐ拷問ファンタジー！
+    title: 姫様“拷問”の時間です
+    url: https://shonenjumpplus.com/episode/10834108156649530410
+    '<<': *id001
+  - id: '3269754496837584613'
+    description: 元AV女優＆男優の可愛さ炸裂ッ！
+    title: 恋人以上友人未満
+    url: https://shonenjumpplus.com/episode/3269754496837584613
+    '<<': *id001
+  - id: '3269754496392436053'
+    description: 宇宙人の“ねこ”初体験コメディ!!
+    title: カワイスギクライシス
+    url: https://shonenjumpplus.com/episode/3269754496392436053
+    '<<': *id001
+  - id: '13933686331681119000'
+    description: 目指せ！格ゲー界最強“eお嬢様”!!
+    title: ゲーミングお嬢様
+    url: https://shonenjumpplus.com/episode/13933686331681119000
+    '<<': *id001
+  - id: '3269754496618897559'
+    description: 「個」を問う青春ドラマ!!
+    title: アフタースクールメイト
+    url: https://shonenjumpplus.com/episode/3269754496618897559
+    '<<': *id001
+  - id: '10833519556325021944'
+    description: 青春！学園コメディの決定版!!
+    title: SKET DANCE
+    url: https://shonenjumpplus.com/episode/10833519556325021944
+    '<<': *id001
+  - id: '10833519556325021794'
+    description: 全世界4億9千万部ヒットの超大作！
+    title: ONE PIECE
+    url: https://shonenjumpplus.com/episode/10833519556325021794
+    '<<': *id001
+  - id: '13933686331735620819'
+    description: 口裂け女×男子高校生の婚約生活!?
+    title: 口が裂けても君には
+    url: https://shonenjumpplus.com/episode/13933686331735620819
+    '<<': *id001
+  - id: '13933686331779151708'
+    description: 照れすぎる彼女との赤面ラブコメ！
+    title: 赤面しないで関目さん
+    url: https://shonenjumpplus.com/episode/13933686331779151708
+    '<<': *id001
+  - id: '13933686331679018626'
+    description: オカルティックアクションコメディ
+    title: GHOST GIRL　ゴーストガール
+    url: https://shonenjumpplus.com/episode/13933686331679018626
+    '<<': *id001
+  - id: '3269754496585820291'
+    description: 空から竜の卵が落ちてきて——!?
+    title: ドラゴンの子
+    url: https://shonenjumpplus.com/episode/3269754496585820291
+    '<<': *id001
+  - id: '3269754496851712298'
+    description: その初老、危険─…！
+    title: 紫烟の人
+    url: https://shonenjumpplus.com/episode/3269754496851712298
+    '<<': *id001
+  - id: '3269754496895224892'
+    description: 同じだけど違う、ふたりの話。
+    title: ういてるふたり
+    url: https://shonenjumpplus.com/episode/3269754496895224892
+    '<<': *id001
+  - id: '10834108156684177150'
+    description: 北の大地で贈る青春ギャルラブコメ♪
+    title: 道産子ギャルはなまらめんこい
+    url: https://shonenjumpplus.com/episode/10834108156684177150
+    '<<': *id001
+  - id: '13933686331692600972'
+    description: ヒロイン×モブ 思春期スイートコメディ
+    title: 久保さんは僕を許さない
+    url: https://shonenjumpplus.com/episode/13933686331692600972
+    '<<': *id001
+  - id: '3269754496555043141'
+    description: ベンチャー企業×魔法少女アクション!!
+    title: 株式会社マジルミエ
+    url: https://shonenjumpplus.com/episode/3269754496555043141
+    '<<': *id001
+  - id: '3269754496881854355'
+    description: 殺し屋×詐欺師の世界一波乱な婚活
+    title: マリッジトキシン
+    url: https://shonenjumpplus.com/episode/3269754496881854355
+    '<<': *id001
+  - id: '13932016480029123951'
+    description: 百合漫画の日本代表！
+    title: オトメの帝国
+    url: https://shonenjumpplus.com/episode/13932016480029123951
+    '<<': *id001
+  - id: '3269754496840031515'
+    description: 新時代のギャンブルバトルin銀行
+    title: ジャンケットバンク
+    url: https://shonenjumpplus.com/episode/3269754496840031515
+    '<<': *id001
+  - id: '10834108156693985842'
+    description: 恋した女は５歳年上のいとこでした
+    title: おいしいコーヒーのいれ方
+    url: https://shonenjumpplus.com/episode/10834108156693985842
+    '<<': *id001
+  - id: '3269754496408856071'
+    description: 俺の“現実”がはじまる——
+    title: AURORA NODE
+    url: https://shonenjumpplus.com/episode/3269754496408856071
+    '<<': *id001
+  - id: '3269754496649675685'
+    description: 恋を知らない少年神父の聖戦記！
+    title: エクソシストを堕とせない
+    url: https://shonenjumpplus.com/episode/3269754496649675685
+    '<<': *id001
+  - id: '13933686331748208168'
+    description: 師が子を磨く鉱石職人ファンタジー
+    title: アラガネの子
+    url: https://shonenjumpplus.com/episode/13933686331748208168
+    '<<': *id001
+  - id: '10834108156649693707'
+    description: 少女とギアが未知へと挑む…！
+    title: HEART GEAR
+    url: https://shonenjumpplus.com/episode/10834108156649693707
+    '<<': *id001
+  - id: '3269754496484998881'
+    description: マッスル＆カワイイ妖怪コメディ！
+    title: 天狗とわらし
+    url: https://shonenjumpplus.com/episode/3269754496484998881
+    '<<': *id001
+  - id: '3269632237264556385'
+    description: “現代の凶悪犯vs戦国武将”!!
+    title: 真・群青戦記
+    url: https://shonenjumpplus.com/episode/3269632237264556385
+    '<<': *id001
+  - id: '3269754496840031550'
+    description: 遅咲きの新人アイドル成長物語
+    title: スロースターター
+    url: https://shonenjumpplus.com/episode/3269754496840031550
+    '<<': *id001
+  - id: '3269754496867894440'
+    description: ビターな大人初恋物語
+    title: サウダージにくちづけて
+    url: https://shonenjumpplus.com/episode/3269754496867894440
+    '<<': *id001
+  - id: '3269754496882366901'
+    description: 相撲少女が挑む熱血バレーボール譚！
+    title: すみれちゃんレシーブ！
+    url: https://shonenjumpplus.com/episode/3269754496882366901
+    '<<': *id001
+  - id: '13933686331661632099'
+    description: '"赤坂アカ×横槍メンゴ"豪華共演！'
+    title: 【推しの子】
+    url: https://shonenjumpplus.com/episode/13933686331661632099
+    '<<': *id001
+  - id: '10834108156630506434'
+    description: 天才たちは出会ってしまった…！
+    title: 忘却バッテリー
+    url: https://shonenjumpplus.com/episode/10834108156630506434
+    '<<': *id001
+  - id: '10834108156766233558'
+    description: 殺人鬼は、十三歳——。
+    title: いともたやすく行われる十三歳が生きる為のお仕事
+    url: https://shonenjumpplus.com/episode/10834108156766233558
+    '<<': *id001
+  - id: '13933686331623812157'
+    description: 好きっていいたい！いわれたい!!
+    title: 君のことが大大大大大好きな100人の彼女
+    url: https://shonenjumpplus.com/episode/13933686331623812157
+    '<<': *id001
+  - id: '3269754496419328851'
+    description: 神へ挑む！浪漫聖戦巨弾新連載ッ!!
+    title: 神のまにまに
+    url: https://shonenjumpplus.com/episode/3269754496419328851
+    '<<': *id001
+  - id: '3269754496451565255'
+    description: JK(※ゴリラ)笑撃スクールライフ!!
+    title: ゴリラ女子高生
+    url: https://shonenjumpplus.com/episode/3269754496451565255
+    '<<': *id001
+  - id: '10833497643049549836'
+    description: 国を擬人化したら、愛しさアップ☆
+    title: ヘタリア World☆Stars
+    url: https://shonenjumpplus.com/episode/10833497643049549836
+    '<<': *id001
+  - id: '10833519556325021849'
+    description: 青春不条理ギャグマンガ！
+    title: ピューと吹く！ジャガー
+    url: https://shonenjumpplus.com/episode/10833519556325021849
+    '<<': *id001
+  - id: '10833519556325021927'
+    description: ジャンプを代表するヤンキー漫画！
+    title: ろくでなしBLUES
+    url: https://shonenjumpplus.com/episode/10833519556325021927
+    '<<': *id001
+  - id: '3269754496429948996'
+    description: 魔法×恋×学園の青春群像劇♪
+    title: エイトワード魔法学校へようこそ！
+    url: https://shonenjumpplus.com/episode/3269754496429948996
+    '<<': *id001
+  - id: '3269754496868421289'
+    description: 怪奇現象が起こる部屋の謎を解け！
+    title: サマータイムレンダ2026 未然事故物件
+    url: https://shonenjumpplus.com/episode/3269754496868421289
+    '<<': *id001
+  - id: '3269754496868421276'
+    description: 幼馴染の”小指”が伸びた…!?
+    title: ゆびきれない
+    url: https://shonenjumpplus.com/episode/3269754496868421276
+    '<<': *id001
+  - id: '3269754496854369150'
+    description: 死を超えた新時代青春ドラマ読切！
+    title: 美術部の上村が死んだ
+    url: https://shonenjumpplus.com/episode/3269754496854369150
+    '<<': *id001
+  - id: '3269754496398375123'
+    description: お隣のサキュバスは勤労で禁欲で
+    title: マジメサキュバス柊さん
+    url: https://shonenjumpplus.com/episode/3269754496398375123
+    '<<': *id001
+  - id: '3269754496800351411'
+    description: 社長×新入社員純情百合ラブコメ♡
+    title: 100日後に×××する女社長と新入社員
+    url: https://shonenjumpplus.com/episode/3269754496800351411
+    '<<': *id001
+  - id: '3269754496827243170'
+    description: 寿司屋でシスターでハンターです。
+    title: スシシスターハンター
+    url: https://shonenjumpplus.com/episode/3269754496827243170
+    '<<': *id001
+  - id: '3269754496649850232'
+    description: 口寄と退魔を巡る現代奇譚姉妹物語
+    title: 彼岸此岸のものどもよ
+    url: https://shonenjumpplus.com/episode/3269754496649850232
+    '<<': *id001
+  - id: '10833519556325021828'
+    description: 目指すは頂！ド白熱高校相撲物語!!
+    title: 火ノ丸相撲
+    url: https://shonenjumpplus.com/episode/10833519556325021828
+    '<<': *id001
+  - id: '10833519556325021793'
+    description: 最高の食材を求め旅へ出る!!
+    title: トリコ
+    url: https://shonenjumpplus.com/episode/10833519556325021793
+    '<<': *id001
+  - id: '13933686331674116123'
+    description: この男、正体は怪獣…！
+    title: 怪獣８号
+    url: https://shonenjumpplus.com/episode/13933686331674116123
+    '<<': *id001
+  - id: '13933686331749163174'
+    description: 言い値で買おう、この世界
+    title: ハイパーインフレーション
+    url: https://shonenjumpplus.com/episode/13933686331749163174
+    '<<': *id001
+  - id: '3269754496842971420'
+    description: 『ONE PIECE』公式スピンオフ！
+    title: ONE PIECE学園
+    url: https://shonenjumpplus.com/episode/3269754496842971420
+    '<<': *id001
+  - id: '10834108156717012317'
+    description: 最強先生決定戦開幕!!
+    title: センコーバトル
+    url: https://shonenjumpplus.com/episode/10834108156717012317
+    '<<': *id001
+  - id: '3269754496389553638'
+    description: 本気の恋、Reスタート！
+    title: やり直し姫は夫と恋したい
+    url: https://shonenjumpplus.com/episode/3269754496389553638
+    '<<': *id001
+  - id: '3269754496855984778'
+    description: ネーム原作マンガ賞 準大賞作品！
+    title: 骸骨と恋はできるのか？
+    url: https://shonenjumpplus.com/episode/3269754496855984778
+    '<<': *id001
+  - id: '3269754496885813673'
+    description: 秘術をめぐる縁と怨——
+    title: 國我政宗の呪難
+    url: https://shonenjumpplus.com/episode/3269754496885813673
+    '<<': *id001
+  - id: '10834108156641784254'
+    description: 飼われる少年のバトルファンタジー
+    title: 魔都精兵のスレイブ
+    url: https://shonenjumpplus.com/episode/10834108156641784254
+    '<<': *id001
+  - id: '13933686331679642476'
+    description: 愛、バトル、青春！最もジャンプなコスプレ漫画！
+    title: 2.5次元の誘惑
+    url: https://shonenjumpplus.com/episode/13933686331679642476
+    '<<': *id001
+  - id: '13932016480029111789'
+    description: 心を抉るクリエイター群像劇…！
+    title: 左ききのエレン
+    url: https://shonenjumpplus.com/episode/13932016480029111789
+    '<<': *id001
+  - id: '10833497643049550348'
+    description: 正義問答！少年よ外伝になれ!!
+    title: ヴィジランテ-僕のヒーローアカデミア ILLEGALS-
+    url: https://shonenjumpplus.com/episode/10833497643049550348
+    '<<': *id001
+  - id: '3269754496819320015'
+    description: 『ダイの大冒険』外伝————
+    title: ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王
+    url: https://shonenjumpplus.com/episode/3269754496819320015
+    '<<': *id001
+  - id: '3269754496629947107'
+    description: 宇宙人、農業はじめます。
+    title: サラダ・ヴァイキング
+    url: https://shonenjumpplus.com/episode/3269754496629947107
+    '<<': *id001
+  - id: '10833497643049550175'
+    description: 意外な一面を知る!?公式スピンオフ
+    title: れっつ！ハイキュー!?
+    url: https://shonenjumpplus.com/episode/10833497643049550175
+    '<<': *id001
+  - id: '3269754496535710137'
+    description: 復讐心が魔王を呼び起こす——。
+    title: 殺戮の王
+    url: https://shonenjumpplus.com/episode/3269754496535710137
+    '<<': *id001
+  - id: '10833519556325021805'
+    description: 甘党&無鉄砲な銀さんがたまに活躍!
+    title: 銀魂
+    url: https://shonenjumpplus.com/episode/10833519556325021805
+    '<<': *id001
+  - id: '10833519556325021854'
+    description: 全世界大ヒットの忍者漫画！
+    title: NARUTO—ナルト—
+    url: https://shonenjumpplus.com/episode/10833519556325021854
+    '<<': *id001
+  - id: '13933686331646901547'
+    description: 極道が恋したのは××な歯医者さん!?
+    title: 歯医者さん、あタってます！
+    url: https://shonenjumpplus.com/episode/13933686331646901547
+    '<<': *id001
+  - id: '3269754496421073063'
+    description: 巨大食材と対するは少年料理人！
+    title: 神食の料理人
+    url: https://shonenjumpplus.com/episode/3269754496421073063
+    '<<': *id001
+  - id: '10834108156703275439'
+    description: 劇場アニメ、完全コミカライズ!!
+    title: PSYCHO-PASS サイコパス 3
+    url: https://shonenjumpplus.com/episode/10834108156703275439
+    '<<': *id001
+  - id: '3269754496874192645'
+    description: 冷たき少女は吸血鬼と出会う——
+    title: Young blood
+    url: https://shonenjumpplus.com/episode/3269754496874192645
+    '<<': *id001
+  - id: '3269754496895767386'
+    description: 格子ひとつ隔てたブロマンス49Ｐ!!!
+    title: 遊星から君へ
+    url: https://shonenjumpplus.com/episode/3269754496895767386
+    '<<': *id001
+  - id: '13932016480028799982'
+    description: 『はかれない』密着系青春ラブコメ
+    title: 阿波連さんははかれない
+    url: https://shonenjumpplus.com/episode/13932016480028799982
+    '<<': *id001
+  - id: '3269754496790479920'
+    description: 死んでも君を守る——
+    title: ステージS
+    url: https://shonenjumpplus.com/episode/3269754496790479920
+    '<<': *id001
+  - id: '13933686331719348891'
+    description: 訳あり探偵が謎を解き明かす！
+    title: 鴨乃橋ロンの禁断推理
+    url: https://shonenjumpplus.com/episode/13933686331719348891
+    '<<': *id001
+  - id: '10834108156763543098'
+    description: 愛しの暗殺者よ、どうか殺してくれ。
+    title: きるる KILL ME
+    url: https://shonenjumpplus.com/episode/10834108156763543098
+    '<<': *id001
+  - id: '10834108156631137345'
+    description: 話題作の本格ダークファンタジー！
+    title: 終末のハーレム ファンタジア
+    url: https://shonenjumpplus.com/episode/10834108156631137345
+    '<<': *id001
+  - id: '3269754496629947146'
+    description: 新時代撃滅ファミリーコメディッ!!
+    title: 全部ぶっ壊す
+    url: https://shonenjumpplus.com/episode/3269754496629947146
+    '<<': *id001
+  - id: '10833519556325021908'
+    description: 子育て!?バトル・コメディ!!
+    title: べるぜバブ
+    url: https://shonenjumpplus.com/episode/10833519556325021908
+    '<<': *id001
+  - id: '10833519556325021840'
+    description: 嘘から始まるラブコメディ!!
+    title: ニセコイ
+    url: https://shonenjumpplus.com/episode/10833519556325021840
+    '<<': *id001
+  - id: '10834108156641772492'
+    description: 最強の魔術師が異世界で無双する!!
+    title: 劣等眼の転生魔術師
+    url: https://shonenjumpplus.com/episode/10834108156641772492
+    '<<': *id001
+  - id: '3269754496723483979'
+    description: 人の”願い”を巡る奇譚ドラマ連載！
+    title: アンテン様の腹の中
+    url: https://shonenjumpplus.com/episode/3269754496723483979
+    '<<': *id001
+  - id: '3269754496306180406'
+    description: めくるめく欲望の新世界、開幕。
+    title: After World
+    url: https://shonenjumpplus.com/episode/3269754496306180406
+    '<<': *id001
+  - id: '13933686331686864117'
+    description: 現代の学園でアルクに訪れる“平日の”ハーレム!?
+    title: 終末のハーレム ファンタジア学園
+    url: https://shonenjumpplus.com/episode/13933686331686864117
+    '<<': *id001
+  - id: '3269754496567812827'
+    description: ハートフル ボーイ・ミーツ・ロボットガール！
+    title: ココロのプログラム
+    url: https://shonenjumpplus.com/episode/3269754496567812827
+    '<<': *id001
+  - id: '10834108156631134199'
+    description: 神をも恐れぬスピンオフギャグ！
+    title: 恋するワンピース
+    url: https://shonenjumpplus.com/episode/10834108156631134199
+    '<<': *id001
+  - id: '3269754496874192772'
+    description: ビジネスカップル百合実況恋愛物語
+    title: 新宿LIAR♡GIRLS/2022年3月期ブロンズルーキー賞
+    url: https://shonenjumpplus.com/episode/3269754496874192772
+    '<<': *id001
+  - id: '3269754496885813688'
+    description: 「自分」を大事にできないあなたへ
+    title: さくらの詩
+    url: https://shonenjumpplus.com/episode/3269754496885813688
+    '<<': *id001
+  - id: '3269754496868421303'
+    description: 心も清浄するほっこりコメディ!!
+    title: 空気を清浄するイオンちゃん
+    url: https://shonenjumpplus.com/episode/3269754496868421303
+    '<<': *id001
+  - id: '10834108156632735347'
+    description: その日、彼女は女の子をやめた——。
+    title: さよならミニスカート
+    url: https://shonenjumpplus.com/episode/10834108156632735347
+    '<<': *id001
+  - id: '10833497643049550172'
+    description: 男性消滅。5対50億の超ハーレム!
+    title: 終末のハーレム
+    url: https://shonenjumpplus.com/episode/10833497643049550172
+    '<<': *id001
+  - id: '10834108156710689261'
+    description: あの最小最強ヒーローが登場！
+    title: アントマン＋
+    url: https://shonenjumpplus.com/episode/10834108156710689261
+    '<<': *id001
+  - id: '10834108156705167687'
+    description: ヒーロー達のトリックオアトリート
+    title: Halloween Avengers
+    url: https://shonenjumpplus.com/episode/10834108156705167687
+    '<<': *id001
+  - id: '10834108156698040198'
+    description: DEAD POOLのハチャメチャ時代劇!!
+    title: デッドプール：SAMURAI
+    url: https://shonenjumpplus.com/episode/10834108156698040198
+    '<<': *id001
+  - id: '10834108156693737433'
+    description: ヒーローに密着取材！その素顔に迫る…!!!
+    title: アベンジャーズ：インタビュー・ウィズ・ヒーローズ
+    url: https://shonenjumpplus.com/episode/10834108156693737433
+    '<<': *id001
+  - id: '10834108156687543017'
+    description: MARVELヒーローズの日常系ほのぼの漫画！
+    title: アベンジャーズ：ギャグリール
+    url: https://shonenjumpplus.com/episode/10834108156687543017
+    '<<': *id001
+  - id: '10834108156683808709'
+    description: MARVEL編集長に独占インタビュー！
+    title: MARVEL×少年ジャンプ　コラボ記念　MARVEL編集長にインタビューしてきました！
+    url: https://shonenjumpplus.com/episode/10834108156683808709
+    '<<': *id001
+  - id: '13932016480028895758'
+    description: 伝説の硬派マンガを見逃すな！
+    title: 男坂
+    url: https://shonenjumpplus.com/episode/13932016480028895758
+    '<<': *id001
+  - id: '10833497643049550169'
+    description: 冨樫義博絶賛の冒険アクション！
+    title: 群青のマグメル
+    url: https://shonenjumpplus.com/episode/10833497643049550169
+    '<<': *id001
+  - id: '10834108156629383550'
+    description: 心の闇をきく、新感覚サスペンス！
+    title: 第二模式 MODEⅡ
+    url: https://shonenjumpplus.com/episode/10834108156629383550
+    '<<': *id001
+  - id: '13932016480029236443'
+    description: 100億ＰＶ突破のＳＦバトル超大作!!
+    title: 一人之下
+    url: https://shonenjumpplus.com/episode/13932016480029236443
+    '<<': *id001
+  - id: '13932016480028984277'
+    description: 仲良し兄妹（!?）の日常コメディ☆
+    title: 兄に付ける薬はない！
+    url: https://shonenjumpplus.com/episode/13932016480028984277
+    '<<': *id001
+  - id: '10833497643049550164'
+    description: ジャンプの現場へ潜入ルポ！
+    title: ジャンプの正しい作り方！
+    url: https://shonenjumpplus.com/episode/10833497643049550164
+    '<<': *id001
+  - id: '10833497643049550129'
+    description: 「悪」を欺く「正義の詐欺師」！
+    title: アナノムジナ
+    url: https://shonenjumpplus.com/episode/10833497643049550129
+    '<<': *id001
+  - id: '10833497643049550192'
+    description: 二人の出会いは「破滅」への序曲!?
+    title: 神様、キサマを殺したい。
+    url: https://shonenjumpplus.com/episode/10833497643049550192
+    '<<': *id001
+  - id: '10833497643049550354'
+    description: DB外伝！意外なアイツが主人公!!
+    title: ドラゴンボール外伝　転生したらヤムチャだった件
+    url: https://shonenjumpplus.com/episode/10833497643049550354
+    '<<': *id001
