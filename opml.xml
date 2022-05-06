@@ -6,13 +6,13 @@
   <body>
     <outline text="Weneedfeed" title="Weneedfeed">
       
+        <outline type="rss" text="サンデーうぇぶり（葬送のフリーレン）" title="サンデーうぇぶり（葬送のフリーレン）" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496856861013.xml" htmlUrl="https://www.sunday-webry.com/episode/3269754496548997914"/>
+      
         <outline type="rss" text="デビィ・ザ・コルシファは負けず嫌い" title="デビィ・ザ・コルシファは負けず嫌い" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331756948785.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331756948785"/>
       
         <outline type="rss" text="バブル" title="バブル" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496884483900.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496884483900"/>
       
         <outline type="rss" text="ラーメン赤猫" title="ラーメン赤猫" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496804659304.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496804659304"/>
-      
-        <outline type="rss" text="少年ジャンプ＋（100日後に×××する女社長と新入社員）" title="少年ジャンプ＋（100日後に×××する女社長と新入社員）" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496856861013.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496800351411"/>
       
         <outline type="rss" text="腹腹先生" title="腹腹先生" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496422246690.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496422246690"/>
       
