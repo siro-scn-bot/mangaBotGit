@@ -7,9 +7,9 @@ selectors: &selectors
   item_title_selector: volume
 pages:
 - id: '3269754496856861013'
-  description: やらかしちゃったドジっ子新入社員・マイ。責任を取るため、美人社長・エリの提案で女同士だけど付き合うことに。100日後に２人の関係は一体どうなるの!?社長×新入社員の純情百合ラブコメ開幕!!
-  title: 少年ジャンプ＋（100日後に×××する女社長と新入社員）
-  url: https://shonenjumpplus.com/rss/series/3269754496800351401
+  description: 不思議な妖怪「妖（あやかし）」がいる日本。妖と戦う忍者「祓忍」の風巻祭里は、幼なじみで妖が好きな少女・花奏すずを守るべく日々妖と戦う。だがそこに猫の妖シロガネが現れて...？ [JC9巻6/3発売]
+  title: あやかしトライアングル
+  url: https://shonenjumpplus.com/rss/series/3269754496856861002
   '<<': *selectors
 - id: '3269754496804659304'
   description: おいしくて、癒されるネコメディ！
