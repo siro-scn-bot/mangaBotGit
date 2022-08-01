@@ -6,15 +6,15 @@
   <body>
     <outline text="Weneedfeed" title="Weneedfeed">
       
-        <outline type="rss" text="あやかしトライアングル" title="あやかしトライアングル" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496856861013.xml" htmlUrl="https://shonenjumpplus.com/atom/series/3269754496856861002"/>
+        <outline type="rss" attr="あやかしトライアングル" title="あやかしトライアングル" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496856861013.xml" htmlUrl="https://shonenjumpplus.com/atom/series/3269754496856861002"/>
       
-        <outline type="rss" text="デビィ・ザ・コルシファは負けず嫌い" title="デビィ・ザ・コルシファは負けず嫌い" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331756948785.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331756948785"/>
+        <outline type="rss" attr="デビィ・ザ・コルシファは負けず嫌い" title="デビィ・ザ・コルシファは負けず嫌い" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/13933686331756948785.xml" htmlUrl="https://shonenjumpplus.com/episode/13933686331756948785"/>
       
-        <outline type="rss" text="バブル" title="バブル" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496884483900.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496884483900"/>
+        <outline type="rss" attr="バブル" title="バブル" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496884483900.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496884483900"/>
       
-        <outline type="rss" text="ラーメン赤猫" title="ラーメン赤猫" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496804659304.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496804659304"/>
+        <outline type="rss" attr="ラーメン赤猫" title="ラーメン赤猫" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496804659304.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496804659304"/>
       
-        <outline type="rss" text="腹腹先生" title="腹腹先生" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496422246690.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496422246690"/>
+        <outline type="rss" attr="腹腹先生" title="腹腹先生" xmlUrl="https://siro-scn-bot.github.io/mangaBotGit/feeds/3269754496422246690.xml" htmlUrl="https://shonenjumpplus.com/episode/3269754496422246690"/>
       
     </outline>
   </body>
